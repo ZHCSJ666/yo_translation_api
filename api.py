@@ -55,49 +55,39 @@ TRANSLATION_SYSTEM_PROMPT = """
 
 
 #########################################################
-# 4. 工具函数：调用 API
+# 4. 工具函数：单次调用 API（不带重试）
 #########################################################
 
-def call_translation_api(items_dict, model_name, retries=3, retry_wait=2):
+def call_translation_api_once(items_dict, model_name):
     """
-    items_dict: 一个 dict，例如
+    只调用一次 API，失败由外层处理。
+    items_dict 形如：
     {
         "opt_1": "Ghana",
         "opt_2": "Vietnam",
         "open_answer": "India"
     }
-    返回：翻译后的 dict
     """
     user_content = json.dumps(items_dict, ensure_ascii=False)
 
-    for attempt in range(1, retries + 1):
-        try:
-            response = openai.chat.completions.create(
-                model=model_name,
-                messages=[
-                    {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
-                    {"role": "user", "content": user_content},
-                ],
-            )
+    response = openai.chat.completions.create(
+        model=model_name,
+        messages=[
+            {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
+            {"role": "user", "content": user_content},
+        ],
+    )
 
-            text = response.choices[0].message.content
-            translated = json.loads(text)
-            return translated
-
-        except Exception as e:
-            print(f"[API] 第 {attempt} 次调用失败：{e}")
-            if attempt < retries:
-                time.sleep(retry_wait)
-            else:
-                print("[API] 多次失败，返回原始 items_dict。")
-                return items_dict
+    text = response.choices[0].message.content
+    translated = json.loads(text)  # 如果不是合法 JSON，会在这里抛错
+    return translated
 
 
 #########################################################
-# 5. 主处理函数（适配 options_only JSON）
+# 5. 主处理函数（适配 options_only JSON，带重试）
 #########################################################
 
-def process_translations(input_path, model_name):
+def process_translations(input_path, model_name, retries=3, retry_wait=2):
     """
     适配 options_only.json 的结构：
     {
@@ -108,6 +98,11 @@ def process_translations(input_path, model_name):
         "open_answer": "..."
       }
     }
+
+    对每个 qa_id 做重试：
+    - 最多 retries 次
+    - 每次失败等待 retry_wait 秒
+    - 多次失败后写回原始 items_dict，避免程序崩溃
     """
 
     input_path = Path(input_path)
@@ -123,7 +118,19 @@ def process_translations(input_path, model_name):
         if not isinstance(to_translate, dict):
             continue
 
-        translated = call_translation_api(to_translate, model_name=model_name)
+        translated = None
+
+        for attempt in range(1, retries + 1):
+            try:
+                translated = call_translation_api_once(to_translate, model_name=model_name)
+                break  # 成功，跳出重试循环
+            except Exception as e:
+                print(f"[{qa_id}] 第 {attempt} 次调用失败：{e}")
+                if attempt < retries:
+                    time.sleep(retry_wait)
+                else:
+                    print(f"[{qa_id}] 已重试 {retries} 次仍失败，写入原始内容以避免崩溃。")
+                    translated = to_translate  # 退而求其次：保存原始内容
 
         all_translations[str(qa_id)] = translated
 
