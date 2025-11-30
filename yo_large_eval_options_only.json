@@ -1,0 +1,4002 @@
+{
+  "1900": {
+    "opt_1": "Thailand",
+    "opt_2": "South Africa",
+    "opt_3": "Kánádà",
+    "opt_4": "Brazil",
+    "opt_5": "Croatia",
+    "open_answer": "South Africa"
+  },
+  "1901": {
+    "opt_1": "India",
+    "opt_2": "Singapore",
+    "opt_3": "Myanmar",
+    "opt_4": "Malaysia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Myanmar"
+  },
+  "1902": {
+    "opt_1": "Algeria",
+    "opt_2": "Qatar",
+    "opt_3": "Cyprus",
+    "opt_4": "Iran",
+    "opt_5": "Azerbaijan",
+    "open_answer": "Iran"
+  },
+  "1903": {
+    "opt_1": "Cambodia",
+    "opt_2": "Malaysia",
+    "opt_3": "Singapore",
+    "opt_4": "Brunei",
+    "opt_5": "Thailand",
+    "open_answer": "Malaysia"
+  },
+  "1904": {
+    "opt_1": "Switzerland",
+    "opt_2": "United States",
+    "opt_3": "Kánádà",
+    "opt_4": "England",
+    "opt_5": "German",
+    "open_answer": "United States"
+  },
+  "1905": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Korea",
+    "opt_3": "Japan",
+    "opt_4": "Myanmar",
+    "opt_5": "Singapore",
+    "open_answer": "Myanmar"
+  },
+  "1906": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Indonesia",
+    "opt_3": "Philippines",
+    "opt_4": "Korea",
+    "opt_5": "Vietnam",
+    "open_answer": "Philippines"
+  },
+  "1907": {
+    "opt_1": "Ireland",
+    "opt_2": "France",
+    "opt_3": "Bẹ́ljíọ̀mù",
+    "opt_4": "Switzerland",
+    "opt_5": "United Kingdom",
+    "open_answer": "France"
+  },
+  "1908": {
+    "opt_1": "Ecuador",
+    "opt_2": "Costa Rica",
+    "opt_3": "Venezuela",
+    "opt_4": "Mexico",
+    "opt_5": "Paraguay",
+    "open_answer": "Mexico"
+  },
+  "1909": {
+    "opt_1": "Indonesia",
+    "opt_2": "Bangladesh",
+    "opt_3": "Philippines",
+    "opt_4": "South Korea",
+    "opt_5": "Thailand",
+    "open_answer": "Indonesia"
+  },
+  "1910": {
+    "opt_1": "Ghana",
+    "opt_2": "India",
+    "opt_3": "Trinidad and Tobago",
+    "opt_4": "Dominica",
+    "opt_5": "Sri Lanka",
+    "open_answer": "India"
+  },
+  "1911": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Romania",
+    "opt_3": "Ástrálíà",
+    "opt_4": "German",
+    "opt_5": "Ukraine",
+    "open_answer": "German"
+  },
+  "1912": {
+    "opt_1": "Portugal",
+    "opt_2": "Eritrea",
+    "opt_3": "Scotland",
+    "opt_4": "Jamaica",
+    "opt_5": "India",
+    "open_answer": "Portugal"
+  },
+  "1913": {
+    "opt_1": "United States",
+    "opt_2": "Spain",
+    "opt_3": "Italy",
+    "opt_4": "Croatia",
+    "opt_5": "Chile",
+    "open_answer": "Italy"
+  },
+  "1914": {
+    "opt_1": "Uruguay",
+    "opt_2": "Nepal",
+    "opt_3": "Philippines",
+    "opt_4": "Morocco",
+    "opt_5": "Bọ̀lífíà",
+    "open_answer": "Uruguay"
+  },
+  "1915": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Kazakhstan",
+    "opt_3": "Moldova",
+    "opt_4": "Bosnia àti Herzegovina",
+    "opt_5": "Togo",
+    "open_answer": "Togo"
+  },
+  "1916": {
+    "opt_1": "Spain",
+    "opt_2": "Brunei",
+    "opt_3": "Lithuania",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "German",
+    "open_answer": "Lithuania"
+  },
+  "1917": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "United States",
+    "opt_4": "Hungary",
+    "opt_5": "Botswana",
+    "open_answer": "United States"
+  },
+  "1918": {
+    "opt_1": "Iran",
+    "opt_2": "Japan",
+    "opt_3": "Greece",
+    "opt_4": "Italy",
+    "opt_5": "Switzerland",
+    "open_answer": "Italy"
+  },
+  "1919": {
+    "opt_1": "France",
+    "opt_2": "United States",
+    "opt_3": "German",
+    "opt_4": "Ukraine",
+    "opt_5": "Slovenia",
+    "open_answer": "France"
+  },
+  "1920": {
+    "opt_1": "England",
+    "opt_2": "United Kingdom",
+    "opt_3": "United States",
+    "opt_4": "France",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "United States"
+  },
+  "1921": {
+    "opt_1": "Malaysia",
+    "opt_2": "Yemen",
+    "opt_3": "Iran",
+    "opt_4": "Albania",
+    "opt_5": "Afghanistan",
+    "open_answer": "Yemen"
+  },
+  "1922": {
+    "opt_1": "Iceland",
+    "opt_2": "Japan",
+    "opt_3": "Norway",
+    "opt_4": "Ástrálíà",
+    "opt_5": "Indonesia",
+    "open_answer": "Japan"
+  },
+  "1923": {
+    "opt_1": "India",
+    "opt_2": "Dominican Republic",
+    "opt_3": "Cuba",
+    "opt_4": "Nepal",
+    "opt_5": "Venezuela",
+    "open_answer": "Dominican Republic"
+  },
+  "1924": {
+    "opt_1": "Latvia",
+    "opt_2": "France",
+    "opt_3": "Israel",
+    "opt_4": "Greece",
+    "opt_5": "Lithuania",
+    "open_answer": "France"
+  },
+  "1925": {
+    "opt_1": "Japan",
+    "opt_2": "Philippines",
+    "opt_3": "Singapore",
+    "opt_4": "Thailand",
+    "opt_5": "Indonesia",
+    "open_answer": "Japan"
+  },
+  "1926": {
+    "opt_1": "Mozambique",
+    "opt_2": "India",
+    "opt_3": "Tanzania",
+    "opt_4": "Trinidad and Tobago",
+    "opt_5": "Ethiopia",
+    "open_answer": "India"
+  },
+  "1927": {
+    "opt_1": "Russia",
+    "opt_2": "Hungary",
+    "opt_3": "Indonesia",
+    "opt_4": "Czech Republic",
+    "opt_5": "Venezuela",
+    "open_answer": "Hungary"
+  },
+  "1928": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Chile",
+    "opt_3": "Spain",
+    "opt_4": "United Kingdom",
+    "opt_5": "Poland",
+    "open_answer": "Bulgaria"
+  },
+  "1929": {
+    "opt_1": "Philippines",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Mexico",
+    "opt_4": "Uruguay",
+    "opt_5": "Brazil",
+    "open_answer": "Philippines"
+  },
+  "1930": {
+    "opt_1": "Morocco",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Spain",
+    "opt_4": "Japan",
+    "opt_5": "Cuba",
+    "open_answer": "Ṣáínà"
+  },
+  "1931": {
+    "opt_1": "Spain",
+    "opt_2": "Hungary",
+    "opt_3": "Indonesia",
+    "opt_4": "Bosnia àti Herzegovina",
+    "opt_5": "England",
+    "open_answer": "Hungary"
+  },
+  "1932": {
+    "opt_1": "Japan",
+    "opt_2": "Indonesia",
+    "opt_3": "Estonia",
+    "opt_4": "Singapore",
+    "opt_5": "Malaysia",
+    "open_answer": "Indonesia"
+  },
+  "1933": {
+    "opt_1": "Turkey",
+    "opt_2": "Oman",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "France",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "1934": {
+    "opt_1": "Russia",
+    "opt_2": "Suriname",
+    "opt_3": "Indonesia",
+    "opt_4": "Belarus",
+    "opt_5": "Afghanistan",
+    "open_answer": "Afghanistan"
+  },
+  "1935": {
+    "opt_1": "Scotland",
+    "opt_2": "United Kingdom",
+    "opt_3": "Kánádà",
+    "opt_4": "Morocco",
+    "opt_5": "England",
+    "open_answer": "Scotland"
+  },
+  "1936": {
+    "opt_1": "Trinidad and Tobago",
+    "opt_2": "Sweden",
+    "opt_3": "United States",
+    "opt_4": "Russia",
+    "opt_5": "Mexico",
+    "open_answer": "United States"
+  },
+  "1937": {
+    "opt_1": "North Macedonia",
+    "opt_2": "Bulgaria",
+    "opt_3": "Israel",
+    "opt_4": "Libya",
+    "opt_5": "Turkey",
+    "open_answer": "Israel"
+  },
+  "1938": {
+    "opt_1": "Ireland",
+    "opt_2": "Croatia",
+    "opt_3": "Côte d'Ivoire",
+    "opt_4": "Japan",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "1939": {
+    "opt_1": "Indonesia",
+    "opt_2": "United States",
+    "opt_3": "Romania",
+    "opt_4": "Paraguay",
+    "opt_5": "England",
+    "open_answer": "England"
+  },
+  "1940": {
+    "opt_1": "Laos",
+    "opt_2": "Brunei",
+    "opt_3": "Thailand",
+    "opt_4": "Hong Kong",
+    "opt_5": "Taiwan",
+    "open_answer": "Thailand"
+  },
+  "1941": {
+    "opt_1": "Croatia",
+    "opt_2": "United Kingdom",
+    "opt_3": "Netherlands",
+    "opt_4": "Ireland",
+    "opt_5": "United States",
+    "open_answer": "United Kingdom"
+  },
+  "1942": {
+    "opt_1": "Bangladesh",
+    "opt_2": "Honduras",
+    "opt_3": "Sri Lanka",
+    "opt_4": "Costa Rica",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "1943": {
+    "opt_1": "Ecuador",
+    "opt_2": "Paraguay",
+    "opt_3": "Agentína",
+    "opt_4": "Japan",
+    "opt_5": "Korea",
+    "open_answer": "Japan"
+  },
+  "1944": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Peru",
+    "opt_3": "Japan",
+    "opt_4": "Myanmar",
+    "opt_5": "Indonesia",
+    "open_answer": "Ṣáínà"
+  },
+  "1945": {
+    "opt_1": "Indonesia",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Thailand",
+    "opt_4": "Singapore",
+    "opt_5": "Grenada",
+    "open_answer": "Indonesia"
+  },
+  "1946": {
+    "opt_1": "Russia",
+    "opt_2": "Mexico",
+    "opt_3": "Peru",
+    "opt_4": "Portugal",
+    "opt_5": "Brazil",
+    "open_answer": "Mexico"
+  },
+  "1947": {
+    "opt_1": "Belarus",
+    "opt_2": "Spain",
+    "opt_3": "Russia",
+    "opt_4": "Turkey",
+    "opt_5": "Qatar",
+    "open_answer": "Russia"
+  },
+  "1948": {
+    "opt_1": "Panama",
+    "opt_2": "Honduras",
+    "opt_3": "Philippines",
+    "opt_4": "Korea",
+    "opt_5": "Jamaica",
+    "open_answer": "Jamaica"
+  },
+  "1949": {
+    "opt_1": "Turkey",
+    "opt_2": "Italy",
+    "opt_3": "England",
+    "opt_4": "Jamaica",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "Turkey"
+  },
+  "1950": {
+    "opt_1": "Poland",
+    "opt_2": "Georgia",
+    "opt_3": "Turkey",
+    "opt_4": "Pakistan",
+    "opt_5": "Vietnam",
+    "open_answer": "Pakistan"
+  },
+  "1951": {
+    "opt_1": "Singapore",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Taiwan",
+    "opt_4": "Brunei",
+    "opt_5": "Vietnam",
+    "open_answer": "Singapore"
+  },
+  "1952": {
+    "opt_1": "Thailand",
+    "opt_2": "Brunei",
+    "opt_3": "Laos",
+    "opt_4": "Taiwan",
+    "opt_5": "Singapore",
+    "open_answer": "Singapore"
+  },
+  "1953": {
+    "opt_1": "Singapore",
+    "opt_2": "Japan",
+    "opt_3": "Indonesia",
+    "opt_4": "Indonesia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Japan"
+  },
+  "1954": {
+    "opt_1": "South Africa",
+    "opt_2": "Japan",
+    "opt_3": "Bulgaria",
+    "opt_4": "Turkey",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "1955": {
+    "opt_1": "Indonesia",
+    "opt_2": "Philippines",
+    "opt_3": "United States",
+    "opt_4": "Spain",
+    "opt_5": "Croatia",
+    "open_answer": "Spain"
+  },
+  "1956": {
+    "opt_1": "Philippines",
+    "opt_2": "Taiwan",
+    "opt_3": "India",
+    "opt_4": "Yemen",
+    "opt_5": "Cambodia",
+    "open_answer": "India"
+  },
+  "1957": {
+    "opt_1": "United Kingdom",
+    "opt_2": "England",
+    "opt_3": "Saint Kitts ati Nevis",
+    "opt_4": "France",
+    "opt_5": "Netherlands",
+    "open_answer": "United Kingdom"
+  },
+  "1958": {
+    "opt_1": "Switzerland",
+    "opt_2": "Italy",
+    "opt_3": "Jamaica",
+    "opt_4": "Portugal",
+    "opt_5": "Belarus",
+    "open_answer": "Italy"
+  },
+  "1959": {
+    "opt_1": "Nepal",
+    "opt_2": "Philippines",
+    "opt_3": "Hong Kong",
+    "opt_4": "Vietnam",
+    "opt_5": "Nigeria",
+    "open_answer": "Philippines"
+  },
+  "1960": {
+    "opt_1": "Serbia",
+    "opt_2": "Croatia",
+    "opt_3": "Russia",
+    "opt_4": "Japan",
+    "opt_5": "Brazil",
+    "open_answer": "Russia"
+  },
+  "1961": {
+    "opt_1": "Portugal",
+    "opt_2": "Togo",
+    "opt_3": "Korea",
+    "opt_4": "Israel",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "Korea"
+  },
+  "1962": {
+    "opt_1": "Korea",
+    "opt_2": "Philippines",
+    "opt_3": "Mongolia",
+    "opt_4": "Tajikistan",
+    "opt_5": "Libya",
+    "open_answer": "Tajikistan"
+  },
+  "1963": {
+    "opt_1": "Myanmar",
+    "opt_2": "Greece",
+    "opt_3": "Japan",
+    "opt_4": "Russia",
+    "opt_5": "Philippines",
+    "open_answer": "Japan"
+  },
+  "1964": {
+    "opt_1": "Saudi Arabia",
+    "opt_2": "India",
+    "opt_3": "France",
+    "opt_4": "Indonesia",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "1965": {
+    "opt_1": "Romania",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Syria",
+    "opt_4": "Iraq",
+    "opt_5": "South Africa",
+    "open_answer": "South Africa"
+  },
+  "1966": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Slovenia",
+    "opt_3": "Egypt",
+    "opt_4": "Portugal",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "1967": {
+    "opt_1": "Colombia",
+    "opt_2": "France",
+    "opt_3": "German",
+    "opt_4": "Philippines",
+    "opt_5": "Ástríà",
+    "open_answer": "German"
+  },
+  "1968": {
+    "opt_1": "Korea",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Bhutan",
+    "opt_4": "India",
+    "opt_5": "Nigeria",
+    "open_answer": "Ṣáínà"
+  },
+  "1969": {
+    "opt_1": "India",
+    "opt_2": "Portugal",
+    "opt_3": "England",
+    "opt_4": "Italy",
+    "opt_5": "France",
+    "open_answer": "Italy"
+  },
+  "1970": {
+    "opt_1": "Malaysia",
+    "opt_2": "Singapore",
+    "opt_3": "Indonesia",
+    "opt_4": "India",
+    "opt_5": "Poland",
+    "open_answer": "Indonesia"
+  },
+  "1971": {
+    "opt_1": "Turkey",
+    "opt_2": "India",
+    "opt_3": "Japan",
+    "opt_4": "Russia",
+    "opt_5": "Taiwan",
+    "open_answer": "Japan"
+  },
+  "1972": {
+    "opt_1": "Latvia",
+    "opt_2": "Bẹ́ljíọ̀mù",
+    "opt_3": "Hong Kong",
+    "opt_4": "England",
+    "opt_5": "Kánádà",
+    "open_answer": "Hong Kong"
+  },
+  "1973": {
+    "opt_1": "Brazil",
+    "opt_2": "German",
+    "opt_3": "Taiwan",
+    "opt_4": "Greece",
+    "opt_5": "Guatemala",
+    "open_answer": "Brazil"
+  },
+  "1974": {
+    "opt_1": "Russia",
+    "opt_2": "Indonesia",
+    "opt_3": "Mexico",
+    "opt_4": "Vietnam",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "1975": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Japan",
+    "opt_3": "Ástríà",
+    "opt_4": "England",
+    "opt_5": "Denmark",
+    "open_answer": "Ástríà"
+  },
+  "1976": {
+    "opt_1": "Indonesia",
+    "opt_2": "Russia",
+    "opt_3": "Libya",
+    "opt_4": "Iran",
+    "opt_5": "Slovakia",
+    "open_answer": "Libya"
+  },
+  "1977": {
+    "opt_1": "Netherlands",
+    "opt_2": "England",
+    "opt_3": "Montenegro",
+    "opt_4": "Korea",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "1978": {
+    "opt_1": "Korea",
+    "opt_2": "German",
+    "opt_3": "Hong Kong",
+    "opt_4": "Indonesia",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "1979": {
+    "opt_1": "United States",
+    "opt_2": "Myanmar",
+    "opt_3": "Laos",
+    "opt_4": "Indonesia",
+    "opt_5": "Thailand",
+    "open_answer": "Thailand"
+  },
+  "1980": {
+    "opt_1": "India",
+    "opt_2": "Améníà",
+    "opt_3": "Bangladesh",
+    "opt_4": "United States",
+    "opt_5": "Yemen",
+    "open_answer": "Améníà"
+  },
+  "1981": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Hungary",
+    "opt_3": "Czech Republic",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "1982": {
+    "opt_1": "Israel",
+    "opt_2": "Libya",
+    "opt_3": "Philippines",
+    "opt_4": "Brazil",
+    "opt_5": "Panama",
+    "open_answer": "Brazil"
+  },
+  "1983": {
+    "opt_1": "Nicaragua",
+    "opt_2": "Ukraine",
+    "opt_3": "Romania",
+    "opt_4": "Morocco",
+    "opt_5": "Brazil",
+    "open_answer": "Nicaragua"
+  },
+  "1984": {
+    "opt_1": "Bhutan",
+    "opt_2": "France",
+    "opt_3": "Turkey",
+    "opt_4": "Philippines",
+    "opt_5": "Singapore",
+    "open_answer": "France"
+  },
+  "1985": {
+    "opt_1": "United States",
+    "opt_2": "Bulgaria",
+    "opt_3": "Hungary",
+    "opt_4": "Turkey",
+    "opt_5": "Ethiopia",
+    "open_answer": "Turkey"
+  },
+  "1986": {
+    "opt_1": "Mauritania",
+    "opt_2": "Djibouti",
+    "opt_3": "India",
+    "opt_4": "Albania",
+    "opt_5": "Chile",
+    "open_answer": "Albania"
+  },
+  "1987": {
+    "opt_1": "India",
+    "opt_2": "Mexico",
+    "opt_3": "Egypt",
+    "opt_4": "Slovenia",
+    "opt_5": "Ecuador",
+    "open_answer": "Mexico"
+  },
+  "1988": {
+    "opt_1": "Ástríà",
+    "opt_2": "France",
+    "opt_3": "Georgia",
+    "opt_4": "Italy",
+    "opt_5": "United States",
+    "open_answer": "Italy"
+  },
+  "1989": {
+    "opt_1": "Vietnam",
+    "opt_2": "India",
+    "opt_3": "Hong Kong",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Korea",
+    "open_answer": "Ṣáínà"
+  },
+  "1990": {
+    "opt_1": "Japan",
+    "opt_2": "Malaysia",
+    "opt_3": "Korea",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Singapore",
+    "open_answer": "Korea"
+  },
+  "1991": {
+    "opt_1": "Japan",
+    "opt_2": "United Kingdom",
+    "opt_3": "Pakistan",
+    "opt_4": "Portugal",
+    "opt_5": "Kánádà",
+    "open_answer": "United Kingdom"
+  },
+  "1992": {
+    "opt_1": "Laos",
+    "opt_2": "Myanmar",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Malaysia",
+    "opt_5": "Thailand",
+    "open_answer": "Thailand"
+  },
+  "1993": {
+    "opt_1": "Indonesia",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Lithuania",
+    "opt_4": "Greece",
+    "opt_5": "Sri Lanka",
+    "open_answer": "Sri Lanka"
+  },
+  "1994": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Macedonia",
+    "opt_3": "Turkey",
+    "opt_4": "United States",
+    "opt_5": "Jordan",
+    "open_answer": "Turkey"
+  },
+  "1995": {
+    "opt_1": "United States",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Indonesia",
+    "opt_4": "England",
+    "opt_5": "France",
+    "open_answer": "United States"
+  },
+  "1996": {
+    "opt_1": "Spain",
+    "opt_2": "Afghanistan",
+    "opt_3": "Iran",
+    "opt_4": "Lebanon",
+    "opt_5": "Serbia",
+    "open_answer": "Spain"
+  },
+  "1997": {
+    "opt_1": "Ukraine",
+    "opt_2": "Nigeria",
+    "opt_3": "United Kingdom",
+    "opt_4": "South Africa",
+    "opt_5": "United States",
+    "open_answer": "United Kingdom"
+  },
+  "1998": {
+    "opt_1": "New Zealand",
+    "opt_2": "Ireland",
+    "opt_3": "Egypt",
+    "opt_4": "Taiwan",
+    "opt_5": "Chile",
+    "open_answer": "Chile"
+  },
+  "1999": {
+    "opt_1": "Costa Rica",
+    "opt_2": "Cuba",
+    "opt_3": "Bangladesh",
+    "opt_4": "United States",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2000": {
+    "opt_1": "Singapore",
+    "opt_2": "Spain",
+    "opt_3": "Netherlands",
+    "opt_4": "Croatia",
+    "opt_5": "El Salvador",
+    "open_answer": "Croatia"
+  },
+  "2001": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Dominican Republic",
+    "opt_3": "Venezuela",
+    "opt_4": "Cuba",
+    "opt_5": "Slovenia",
+    "open_answer": "Ṣáínà"
+  },
+  "2002": {
+    "opt_1": "Mauritania",
+    "opt_2": "Pakistan",
+    "opt_3": "Oman",
+    "opt_4": "Syria",
+    "opt_5": "Oman",
+    "open_answer": "Pakistan"
+  },
+  "2003": {
+    "opt_1": "Guatemala",
+    "opt_2": "Thailand",
+    "opt_3": "Turkey",
+    "opt_4": "Brazil",
+    "opt_5": "United States",
+    "open_answer": "Guatemala"
+  },
+  "2004": {
+    "opt_1": "Suriname",
+    "opt_2": "Sri Lanka",
+    "opt_3": "Cambodia",
+    "opt_4": "Yemen",
+    "opt_5": "Philippines",
+    "open_answer": "Yemen"
+  },
+  "2005": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Azerbaijan",
+    "opt_3": "France",
+    "opt_4": "Costa Rica",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "2006": {
+    "opt_1": "Ecuador",
+    "opt_2": "Uruguay",
+    "opt_3": "France",
+    "opt_4": "Mexico",
+    "opt_5": "Colombia",
+    "open_answer": "Colombia"
+  },
+  "2007": {
+    "opt_1": "Indonesia",
+    "opt_2": "Macau",
+    "opt_3": "Brazil",
+    "opt_4": "Turkey",
+    "opt_5": "Pakistan",
+    "open_answer": "Pakistan"
+  },
+  "2008": {
+    "opt_1": "Philippines",
+    "opt_2": "India",
+    "opt_3": "Àpapọ̀ Arab Emirates",
+    "opt_4": "Bangladesh",
+    "opt_5": "Ghana",
+    "open_answer": "India"
+  },
+  "2009": {
+    "opt_1": "Fiji",
+    "opt_2": "Afghanistan",
+    "opt_3": "Serbia",
+    "opt_4": "Iraq",
+    "opt_5": "India",
+    "open_answer": "India"
+  },
+  "2010": {
+    "opt_1": "United States",
+    "opt_2": "France",
+    "opt_3": "Portugal",
+    "opt_4": "Spain",
+    "opt_5": "Ástrálíà",
+    "open_answer": "France"
+  },
+  "2011": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Tanzania",
+    "opt_3": "Turkey",
+    "opt_4": "Côte d'Ivoire",
+    "opt_5": "India",
+    "open_answer": "India"
+  },
+  "2012": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Italy",
+    "opt_3": "Poland",
+    "opt_4": "Greece",
+    "opt_5": "Belarus",
+    "open_answer": "Greece"
+  },
+  "2013": {
+    "opt_1": "Djibouti",
+    "opt_2": "Eritrea",
+    "opt_3": "Indonesia",
+    "opt_4": "Chad",
+    "opt_5": "Afghanistan",
+    "open_answer": "Eritrea"
+  },
+  "2014": {
+    "opt_1": "Croatia",
+    "opt_2": "Georgia",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Syria",
+    "opt_5": "Brunei",
+    "open_answer": "Syria"
+  },
+  "2015": {
+    "opt_1": "Netherlands",
+    "opt_2": "Myanmar",
+    "opt_3": "Spain",
+    "opt_4": "Suriname",
+    "opt_5": "Uruguay",
+    "open_answer": "Spain"
+  },
+  "2016": {
+    "opt_1": "United States",
+    "opt_2": "Ástríà",
+    "opt_3": "France",
+    "opt_4": "Sweden",
+    "opt_5": "United Kingdom",
+    "open_answer": "Ástríà"
+  },
+  "2017": {
+    "opt_1": "Portugal",
+    "opt_2": "Congo",
+    "opt_3": "Romania",
+    "opt_4": "Peru",
+    "opt_5": "Nicaragua",
+    "open_answer": "Portugal"
+  },
+  "2018": {
+    "opt_1": "Croatia",
+    "opt_2": "Philippines",
+    "opt_3": "Indonesia",
+    "opt_4": "South Africa",
+    "opt_5": "German",
+    "open_answer": "Croatia"
+  },
+  "2019": {
+    "opt_1": "Philippines",
+    "opt_2": "Laos",
+    "opt_3": "Iran",
+    "opt_4": "Norway",
+    "opt_5": "Spain",
+    "open_answer": "Philippines"
+  },
+  "2020": {
+    "opt_1": "Chile",
+    "opt_2": "United Kingdom",
+    "opt_3": "Egypt",
+    "opt_4": "Iran",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Chile"
+  },
+  "2021": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Taiwan",
+    "opt_3": "Venezuela",
+    "opt_4": "Japan",
+    "opt_5": "Croatia",
+    "open_answer": "Venezuela"
+  },
+  "2022": {
+    "opt_1": "Indonesia",
+    "opt_2": "Japan",
+    "opt_3": "Spain",
+    "opt_4": "Romania",
+    "opt_5": "Nicaragua",
+    "open_answer": "Spain"
+  },
+  "2023": {
+    "opt_1": "United Kingdom",
+    "opt_2": "United States",
+    "opt_3": "Portugal",
+    "opt_4": "Kánádà",
+    "opt_5": "Finland",
+    "open_answer": "United States"
+  },
+  "2024": {
+    "opt_1": "France",
+    "opt_2": "Romania",
+    "opt_3": "Turkey",
+    "opt_4": "Cyprus",
+    "opt_5": "Switzerland",
+    "open_answer": "France"
+  },
+  "2025": {
+    "opt_1": "Czech Republic",
+    "opt_2": "Taiwan",
+    "opt_3": "Azerbaijan",
+    "opt_4": "Japan",
+    "opt_5": "Philippines",
+    "open_answer": "Taiwan"
+  },
+  "2026": {
+    "opt_1": "Brunei",
+    "opt_2": "India",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Indonesia",
+    "opt_5": "Philippines",
+    "open_answer": "Indonesia"
+  },
+  "2027": {
+    "opt_1": "United States",
+    "opt_2": "South Africa",
+    "opt_3": "Indonesia",
+    "opt_4": "England",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "England"
+  },
+  "2028": {
+    "opt_1": "Italy",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Wales",
+    "opt_4": "Korea",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2029": {
+    "opt_1": "Yemen",
+    "opt_2": "Sudan",
+    "opt_3": "Morocco",
+    "opt_4": "Slovakia",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "2030": {
+    "opt_1": "Ástrálíà",
+    "opt_2": "Suriname",
+    "opt_3": "Japan",
+    "opt_4": "Malaysia",
+    "opt_5": "Korea",
+    "open_answer": "Korea"
+  },
+  "2031": {
+    "opt_1": "Japan",
+    "opt_2": "Taiwan",
+    "opt_3": "Malaysia",
+    "opt_4": "Myanmar",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2032": {
+    "opt_1": "England",
+    "opt_2": "Bẹ́ljíọ̀mù",
+    "opt_3": "United States",
+    "opt_4": "United Kingdom",
+    "opt_5": "Finland",
+    "open_answer": "United Kingdom"
+  },
+  "2033": {
+    "opt_1": "Japan",
+    "opt_2": "Ástrálíà",
+    "opt_3": "England",
+    "opt_4": "Ukraine",
+    "opt_5": "German",
+    "open_answer": "Japan"
+  },
+  "2034": {
+    "opt_1": "United Kingdom",
+    "opt_2": "England",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Philippines",
+    "opt_5": "German",
+    "open_answer": "United Kingdom"
+  },
+  "2035": {
+    "opt_1": "United States",
+    "opt_2": "Lebanon",
+    "opt_3": "Israel",
+    "opt_4": "Nepal",
+    "opt_5": "German",
+    "open_answer": "Israel"
+  },
+  "2036": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Estonia",
+    "opt_3": "Turkey",
+    "opt_4": "England",
+    "opt_5": "Ástríà",
+    "open_answer": "United Kingdom"
+  },
+  "2037": {
+    "opt_1": "Indonesia",
+    "opt_2": "Brunei",
+    "opt_3": "Singapore",
+    "opt_4": "Vietnam",
+    "opt_5": "Hong Kong",
+    "open_answer": "Indonesia"
+  },
+  "2038": {
+    "opt_1": "Indonesia",
+    "opt_2": "Philippines",
+    "opt_3": "Japan",
+    "opt_4": "Saudi Arabia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Japan"
+  },
+  "2039": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Ukraine",
+    "opt_3": "South Africa",
+    "opt_4": "United Kingdom",
+    "opt_5": "Agentína",
+    "open_answer": "Ukraine"
+  },
+  "2040": {
+    "opt_1": "German",
+    "opt_2": "United States",
+    "opt_3": "Saudi Arabia",
+    "opt_4": "Pakistan",
+    "opt_5": "Russia",
+    "open_answer": "Saudi Arabia"
+  },
+  "2041": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Czech Republic",
+    "opt_3": "Italy",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Ṣáínà"
+  },
+  "2042": {
+    "opt_1": "Sri Lanka",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Japan",
+    "opt_4": "Iran",
+    "opt_5": "Uzbekistan",
+    "open_answer": "Japan"
+  },
+  "2043": {
+    "opt_1": "Mexico",
+    "opt_2": "Korea",
+    "opt_3": "Singapore",
+    "opt_4": "Iran",
+    "opt_5": "Malaysia",
+    "open_answer": "Singapore"
+  },
+  "2044": {
+    "opt_1": "Mexico",
+    "opt_2": "Denmark",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Italy",
+    "opt_5": "United States",
+    "open_answer": "Mexico"
+  },
+  "2045": {
+    "opt_1": "Nepal",
+    "opt_2": "Sri Lanka",
+    "opt_3": "India",
+    "opt_4": "Malaysia",
+    "opt_5": "Malaysia",
+    "open_answer": "India"
+  },
+  "2046": {
+    "opt_1": "Philippines",
+    "opt_2": "Vietnam",
+    "opt_3": "Hong Kong",
+    "opt_4": "Myanmar",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2047": {
+    "opt_1": "Eritrea",
+    "opt_2": "Pakistan",
+    "opt_3": "Turkey",
+    "opt_4": "Italy",
+    "opt_5": "Greece",
+    "open_answer": "Greece"
+  },
+  "2048": {
+    "opt_1": "Croatia",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Korea",
+    "opt_4": "Taiwan",
+    "opt_5": "Philippines",
+    "open_answer": "Taiwan"
+  },
+  "2049": {
+    "opt_1": "Algeria",
+    "opt_2": "Singapore",
+    "opt_3": "India",
+    "opt_4": "Palestine",
+    "opt_5": "Israel",
+    "open_answer": "India"
+  },
+  "2050": {
+    "opt_1": "Romania",
+    "opt_2": "Luxembourg",
+    "opt_3": "Brazil",
+    "opt_4": "Bosnia àti Herzegovina",
+    "opt_5": "Slovenia",
+    "open_answer": "Romania"
+  },
+  "2051": {
+    "opt_1": "Mexico",
+    "opt_2": "Bẹ́ljíọ̀mù",
+    "opt_3": "Eritrea",
+    "opt_4": "Saint Kitts ati Nevis",
+    "opt_5": "Libya",
+    "open_answer": "Eritrea"
+  },
+  "2052": {
+    "opt_1": "Malaysia",
+    "opt_2": "Nepal",
+    "opt_3": "Vietnam",
+    "opt_4": "Japan",
+    "opt_5": "Hong Kong",
+    "open_answer": "Vietnam"
+  },
+  "2053": {
+    "opt_1": "Latvia",
+    "opt_2": "Cuba",
+    "opt_3": "Saudi Arabia",
+    "opt_4": "Pakistan",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2054": {
+    "opt_1": "India",
+    "opt_2": "Ṣáínà",
+    "opt_3": "France",
+    "opt_4": "United States",
+    "opt_5": "Philippines",
+    "open_answer": "Philippines"
+  },
+  "2055": {
+    "opt_1": "United States",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Indonesia",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Singapore",
+    "open_answer": "United States"
+  },
+  "2056": {
+    "opt_1": "Vietnam",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Croatia",
+    "opt_4": "Poland",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2057": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Ástrálíà",
+    "opt_3": "England",
+    "opt_4": "England",
+    "opt_5": "Turkey",
+    "open_answer": "Ástrálíà"
+  },
+  "2058": {
+    "opt_1": "Italy",
+    "opt_2": "Ástríà",
+    "opt_3": "Croatia",
+    "opt_4": "Belarus",
+    "opt_5": "German",
+    "open_answer": "German"
+  },
+  "2059": {
+    "opt_1": "Paraguay",
+    "opt_2": "Bulgaria",
+    "opt_3": "Indonesia",
+    "opt_4": "Sri Lanka",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Sri Lanka"
+  },
+  "2060": {
+    "opt_1": "France",
+    "opt_2": "England",
+    "opt_3": "Netherlands",
+    "opt_4": "Philippines",
+    "opt_5": "Bọ̀lífíà",
+    "open_answer": "France"
+  },
+  "2061": {
+    "opt_1": "Kánádà",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "United States",
+    "opt_4": "German",
+    "opt_5": "Ireland",
+    "open_answer": "Ireland"
+  },
+  "2062": {
+    "opt_1": "Egypt",
+    "opt_2": "Syria",
+    "opt_3": "Spain",
+    "opt_4": "North Macedonia",
+    "opt_5": "Palestine",
+    "open_answer": "North Macedonia"
+  },
+  "2063": {
+    "opt_1": "Mongolia",
+    "opt_2": "Myanmar",
+    "opt_3": "Vietnam",
+    "opt_4": "Thailand",
+    "opt_5": "Indonesia",
+    "open_answer": "Myanmar"
+  },
+  "2064": {
+    "opt_1": "Fiji",
+    "opt_2": "Haiti",
+    "opt_3": "Ghana",
+    "opt_4": "Bangladesh",
+    "opt_5": "India",
+    "open_answer": "India"
+  },
+  "2065": {
+    "opt_1": "Cambodia",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Saint Vincent ati Grenadines",
+    "opt_4": "Vietnam",
+    "opt_5": "Malaysia",
+    "open_answer": "Ṣáínà"
+  },
+  "2066": {
+    "opt_1": "Malaysia",
+    "opt_2": "Italy",
+    "opt_3": "Mexico",
+    "opt_4": "Japan",
+    "opt_5": "Romania",
+    "open_answer": "Japan"
+  },
+  "2067": {
+    "opt_1": "United Kingdom",
+    "opt_2": "England",
+    "opt_3": "Philippines",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Malaysia",
+    "open_answer": "Ṣáínà"
+  },
+  "2068": {
+    "opt_1": "Singapore",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Hungary",
+    "opt_4": "France",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2069": {
+    "opt_1": "Philippines",
+    "opt_2": "Brunei",
+    "opt_3": "Indonesia",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Vietnam",
+    "open_answer": "Indonesia"
+  },
+  "2070": {
+    "opt_1": "Poland",
+    "opt_2": "France",
+    "opt_3": "Finland",
+    "opt_4": "Greece",
+    "opt_5": "German",
+    "open_answer": "Finland"
+  },
+  "2071": {
+    "opt_1": "Mauritania",
+    "opt_2": "Qatar",
+    "opt_3": "Chad",
+    "opt_4": "Iran",
+    "opt_5": "Israel",
+    "open_answer": "Iran"
+  },
+  "2072": {
+    "opt_1": "United States",
+    "opt_2": "Guatemala",
+    "opt_3": "Uruguay",
+    "opt_4": "Uruguay",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2073": {
+    "opt_1": "Liechtenstein",
+    "opt_2": "Malaysia",
+    "opt_3": "United States",
+    "opt_4": "Singapore",
+    "opt_5": "Poland",
+    "open_answer": "United States"
+  },
+  "2074": {
+    "opt_1": "Korea",
+    "opt_2": "United States",
+    "opt_3": "United Kingdom",
+    "opt_4": "Croatia",
+    "opt_5": "Ariwa Kọria",
+    "open_answer": "Korea"
+  },
+  "2075": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Japan",
+    "opt_3": "Tunisia",
+    "opt_4": "Spain",
+    "opt_5": "Taiwan",
+    "open_answer": "Japan"
+  },
+  "2076": {
+    "opt_1": "Syria",
+    "opt_2": "Libya",
+    "opt_3": "Vietnam",
+    "opt_4": "Mauritania",
+    "opt_5": "Iraq",
+    "open_answer": "Libya"
+  },
+  "2077": {
+    "opt_1": "Spain",
+    "opt_2": "Ecuador",
+    "opt_3": "Peru",
+    "opt_4": "Brazil",
+    "opt_5": "Portugal",
+    "open_answer": "Spain"
+  },
+  "2078": {
+    "opt_1": "United States",
+    "opt_2": "United Kingdom",
+    "opt_3": "Brazil",
+    "opt_4": "Portugal",
+    "opt_5": "Philippines",
+    "open_answer": "Portugal"
+  },
+  "2079": {
+    "opt_1": "Pakistan",
+    "opt_2": "Singapore",
+    "opt_3": "Dominican Republic",
+    "opt_4": "Philippines",
+    "opt_5": "Finland",
+    "open_answer": "Philippines"
+  },
+  "2080": {
+    "opt_1": "France",
+    "opt_2": "Greece",
+    "opt_3": "Japan",
+    "opt_4": "Turkey",
+    "opt_5": "Portugal",
+    "open_answer": "Portugal"
+  },
+  "2081": {
+    "opt_1": "Russia",
+    "opt_2": "German",
+    "opt_3": "Ástríà",
+    "opt_4": "Lebanon",
+    "opt_5": "New Zealand",
+    "open_answer": "New Zealand"
+  },
+  "2082": {
+    "opt_1": "Slovenia",
+    "opt_2": "Mexico",
+    "opt_3": "France",
+    "opt_4": "Montenegro",
+    "opt_5": "Philippines",
+    "open_answer": "Mexico"
+  },
+  "2083": {
+    "opt_1": "Kánádà",
+    "opt_2": "United States",
+    "opt_3": "Agentína",
+    "opt_4": "Italy",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "United States"
+  },
+  "2084": {
+    "opt_1": "Italy",
+    "opt_2": "Bọ̀lífíà",
+    "opt_3": "United Kingdom",
+    "opt_4": "Ukraine",
+    "opt_5": "France",
+    "open_answer": "Italy"
+  },
+  "2085": {
+    "opt_1": "Tunisia",
+    "opt_2": "Indonesia",
+    "opt_3": "Russia",
+    "opt_4": "Venezuela",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "2086": {
+    "opt_1": "Morocco",
+    "opt_2": "France",
+    "opt_3": "Algeria",
+    "opt_4": "Scotland",
+    "opt_5": "Italy",
+    "open_answer": "France"
+  },
+  "2087": {
+    "opt_1": "Myanmar",
+    "opt_2": "Taiwan",
+    "opt_3": "Pakistan",
+    "opt_4": "Scotland",
+    "opt_5": "United States",
+    "open_answer": "United States"
+  },
+  "2088": {
+    "opt_1": "Italy",
+    "opt_2": "Vietnam",
+    "opt_3": "Cambodia",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Indonesia",
+    "open_answer": "Ṣáínà"
+  },
+  "2089": {
+    "opt_1": "Bọ̀lífíà",
+    "opt_2": "Angola",
+    "opt_3": "Brazil",
+    "opt_4": "Spain",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2090": {
+    "opt_1": "Singapore",
+    "opt_2": "Turkey",
+    "opt_3": "Japan",
+    "opt_4": "Philippines",
+    "opt_5": "United States",
+    "open_answer": "Singapore"
+  },
+  "2091": {
+    "opt_1": "Georgia",
+    "opt_2": "Panama",
+    "opt_3": "Chile",
+    "opt_4": "Colombia",
+    "opt_5": "Cuba",
+    "open_answer": "Chile"
+  },
+  "2092": {
+    "opt_1": "Lithuania",
+    "opt_2": "German",
+    "opt_3": "Agentína",
+    "opt_4": "Jordan",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "2093": {
+    "opt_1": "German",
+    "opt_2": "Ástríà",
+    "opt_3": "United States",
+    "opt_4": "Russia",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "2094": {
+    "opt_1": "Thailand",
+    "opt_2": "Syria",
+    "opt_3": "Lithuania",
+    "opt_4": "Egypt",
+    "opt_5": "Iraq",
+    "open_answer": "Iraq"
+  },
+  "2095": {
+    "opt_1": "Nicaragua",
+    "opt_2": "United Kingdom",
+    "opt_3": "Italy",
+    "opt_4": "Bẹ́ljíọ̀mù",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2096": {
+    "opt_1": "United States",
+    "opt_2": "Taiwan",
+    "opt_3": "Haiti",
+    "opt_4": "Agentína",
+    "opt_5": "France",
+    "open_answer": "Taiwan"
+  },
+  "2097": {
+    "opt_1": "United States",
+    "opt_2": "United Kingdom",
+    "opt_3": "Ástrálíà",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Korea",
+    "open_answer": "Korea"
+  },
+  "2098": {
+    "opt_1": "Japan",
+    "opt_2": "Taiwan",
+    "opt_3": "Ghana",
+    "opt_4": "United States",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Japan"
+  },
+  "2099": {
+    "opt_1": "Iran",
+    "opt_2": "Czech Republic",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Ukraine",
+    "opt_5": "Japan",
+    "open_answer": "Ṣáínà"
+  },
+  "2100": {
+    "opt_1": "Mexico",
+    "opt_2": "Colombia",
+    "opt_3": "Uruguay",
+    "opt_4": "Agentína",
+    "opt_5": "Ecuador",
+    "open_answer": "Mexico"
+  },
+  "2101": {
+    "opt_1": "Kánádà",
+    "opt_2": "Hong Kong",
+    "opt_3": "Croatia",
+    "opt_4": "Israel",
+    "opt_5": "Mongolia",
+    "open_answer": "Croatia"
+  },
+  "2102": {
+    "opt_1": "Venezuela",
+    "opt_2": "Colombia",
+    "opt_3": "Philippines",
+    "opt_4": "Estonia",
+    "opt_5": "India",
+    "open_answer": "India"
+  },
+  "2103": {
+    "opt_1": "Iran",
+    "opt_2": "Greece",
+    "opt_3": "Namibia",
+    "opt_4": "Estonia",
+    "opt_5": "Mexico",
+    "open_answer": "Greece"
+  },
+  "2104": {
+    "opt_1": "Indonesia",
+    "opt_2": "Sri Lanka",
+    "opt_3": "Philippines",
+    "opt_4": "Thailand",
+    "opt_5": "Israel",
+    "open_answer": "Philippines"
+  },
+  "2105": {
+    "opt_1": "Morocco",
+    "opt_2": "South Africa",
+    "opt_3": "Bosnia àti Herzegovina",
+    "opt_4": "Brazil",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Bosnia àti Herzegovina"
+  },
+  "2106": {
+    "opt_1": "Mongolia",
+    "opt_2": "Mexico",
+    "opt_3": "Georgia",
+    "opt_4": "Kenya",
+    "opt_5": "Nepal",
+    "open_answer": "Nepal"
+  },
+  "2107": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "Nepal",
+    "opt_3": "Singapore",
+    "opt_4": "Hong Kong",
+    "opt_5": "Switzerland",
+    "open_answer": "Nepal"
+  },
+  "2108": {
+    "opt_1": "Netherlands",
+    "opt_2": "Philippines",
+    "opt_3": "Syria",
+    "opt_4": "Denmark",
+    "opt_5": "Slovakia",
+    "open_answer": "Denmark"
+  },
+  "2109": {
+    "opt_1": "Netherlands",
+    "opt_2": "Yemen",
+    "opt_3": "Romania",
+    "opt_4": "Chile",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2110": {
+    "opt_1": "Turkey",
+    "opt_2": "Iran",
+    "opt_3": "United States",
+    "opt_4": "Tunisia",
+    "opt_5": "Croatia",
+    "open_answer": "Tunisia"
+  },
+  "2111": {
+    "opt_1": "Egypt",
+    "opt_2": "Améníà",
+    "opt_3": "Israel",
+    "opt_4": "Croatia",
+    "opt_5": "Philippines",
+    "open_answer": "Améníà"
+  },
+  "2112": {
+    "opt_1": "Lebanon",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Senegal",
+    "opt_4": "Uruguay",
+    "opt_5": "Venezuela",
+    "open_answer": "Venezuela"
+  },
+  "2113": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Greece",
+    "opt_3": "Croatia",
+    "opt_4": "Guatemala",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2114": {
+    "opt_1": "Nepal",
+    "opt_2": "Jordan",
+    "opt_3": "Palestine",
+    "opt_4": "Mexico",
+    "opt_5": "Pakistan",
+    "open_answer": "Nepal"
+  },
+  "2115": {
+    "opt_1": "India",
+    "opt_2": "Suriname",
+    "opt_3": "Vietnam",
+    "opt_4": "Sri Lanka",
+    "opt_5": "Nepal",
+    "open_answer": "Nepal"
+  },
+  "2116": {
+    "opt_1": "Albania",
+    "opt_2": "Améníà",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Norway",
+    "opt_5": "Finland",
+    "open_answer": "Finland"
+  },
+  "2117": {
+    "opt_1": "Spain",
+    "opt_2": "England",
+    "opt_3": "Puerto Rico",
+    "opt_4": "Philippines",
+    "opt_5": "Peru",
+    "open_answer": "Spain"
+  },
+  "2118": {
+    "opt_1": "Italy",
+    "opt_2": "Mexico",
+    "opt_3": "Israel",
+    "opt_4": "Palestine",
+    "opt_5": "India",
+    "open_answer": "Mexico"
+  },
+  "2119": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Philippines",
+    "opt_3": "Indonesia",
+    "opt_4": "Mexico",
+    "opt_5": "Malaysia",
+    "open_answer": "Philippines"
+  },
+  "2120": {
+    "opt_1": "Ástrálíà",
+    "opt_2": "Libya",
+    "opt_3": "Morocco",
+    "opt_4": "Cuba",
+    "opt_5": "Poland",
+    "open_answer": "Cuba"
+  },
+  "2121": {
+    "opt_1": "Ástrálíà",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Iran",
+    "opt_4": "Japan",
+    "opt_5": "Uganda",
+    "open_answer": "Ṣáínà"
+  },
+  "2122": {
+    "opt_1": "United States",
+    "opt_2": "Malaysia",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "United Kingdom",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2123": {
+    "opt_1": "India",
+    "opt_2": "Lithuania",
+    "opt_3": "Nepal",
+    "opt_4": "Indonesia",
+    "opt_5": "Suriname",
+    "open_answer": "Indonesia"
+  },
+  "2124": {
+    "opt_1": "Hungary",
+    "opt_2": "Netherlands",
+    "opt_3": "Latvia",
+    "opt_4": "Czech Republic",
+    "opt_5": "Myanmar",
+    "open_answer": "Netherlands"
+  },
+  "2125": {
+    "opt_1": "India",
+    "opt_2": "Pakistan",
+    "opt_3": "Bosnia àti Herzegovina",
+    "opt_4": "Sri Lanka",
+    "opt_5": "Myanmar",
+    "open_answer": "India"
+  },
+  "2126": {
+    "opt_1": "United States",
+    "opt_2": "Brazil",
+    "opt_3": "Venezuela",
+    "opt_4": "Belarus",
+    "opt_5": "Israel",
+    "open_answer": "United States"
+  },
+  "2127": {
+    "opt_1": "United States",
+    "opt_2": "Senegal",
+    "opt_3": "Indonesia",
+    "opt_4": "Philippines",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2128": {
+    "opt_1": "Portugal",
+    "opt_2": "Brazil",
+    "opt_3": "Turkey",
+    "opt_4": "Venezuela",
+    "opt_5": "France",
+    "open_answer": "Portugal"
+  },
+  "2129": {
+    "opt_1": "Ástrálíà",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "France",
+    "opt_4": "United States",
+    "opt_5": "United Kingdom",
+    "open_answer": "United States"
+  },
+  "2130": {
+    "opt_1": "Philippines",
+    "opt_2": "Laos",
+    "opt_3": "Mauritania",
+    "opt_4": "South Africa",
+    "opt_5": "Guatemala",
+    "open_answer": "Guatemala"
+  },
+  "2131": {
+    "opt_1": "Switzerland",
+    "opt_2": "Russia",
+    "opt_3": "Italy",
+    "opt_4": "Japan",
+    "opt_5": "Améníà",
+    "open_answer": "Russia"
+  },
+  "2132": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Brazil",
+    "opt_3": "Hungary",
+    "opt_4": "Azerbaijan",
+    "opt_5": "Suriname",
+    "open_answer": "Azerbaijan"
+  },
+  "2133": {
+    "opt_1": "Philippines",
+    "opt_2": "Taiwan",
+    "opt_3": "United States",
+    "opt_4": "Iran",
+    "opt_5": "Eritrea",
+    "open_answer": "Taiwan"
+  },
+  "2134": {
+    "opt_1": "Tunisia",
+    "opt_2": "Greece",
+    "opt_3": "Serbia",
+    "opt_4": "Russia",
+    "opt_5": "Algeria",
+    "open_answer": "Tunisia"
+  },
+  "2135": {
+    "opt_1": "Philippines",
+    "opt_2": "Korea",
+    "opt_3": "Nepal",
+    "opt_4": "Japan",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Korea"
+  },
+  "2136": {
+    "opt_1": "Taiwan",
+    "opt_2": "Malaysia",
+    "opt_3": "Japan",
+    "opt_4": "Mexico",
+    "opt_5": "South Korea",
+    "open_answer": "Japan"
+  },
+  "2137": {
+    "opt_1": "Cape Verde",
+    "opt_2": "Portugal",
+    "opt_3": "Russia",
+    "opt_4": "Belarus",
+    "opt_5": "England",
+    "open_answer": "Russia"
+  },
+  "2138": {
+    "opt_1": "Russia",
+    "opt_2": "United States",
+    "opt_3": "France",
+    "opt_4": "Mexico",
+    "opt_5": "Morocco",
+    "open_answer": "Mexico"
+  },
+  "2139": {
+    "opt_1": "Thailand",
+    "opt_2": "Russia",
+    "opt_3": "Trinidad and Tobago",
+    "opt_4": "United States",
+    "opt_5": "England",
+    "open_answer": "England"
+  },
+  "2140": {
+    "opt_1": "Ghana",
+    "opt_2": "India",
+    "opt_3": "Egypt",
+    "opt_4": "Nigeria",
+    "opt_5": "Philippines",
+    "open_answer": "Nigeria"
+  },
+  "2141": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Ástríà",
+    "opt_3": "Ástrálíà",
+    "opt_4": "Vietnam",
+    "opt_5": "Czech Republic",
+    "open_answer": "United Kingdom"
+  },
+  "2142": {
+    "opt_1": "Poland",
+    "opt_2": "German",
+    "opt_3": "Ástríà",
+    "opt_4": "Ukraine",
+    "opt_5": "France",
+    "open_answer": "Ástríà"
+  },
+  "2143": {
+    "opt_1": "Kánádà",
+    "opt_2": "Angola",
+    "opt_3": "United States",
+    "opt_4": "Sweden",
+    "opt_5": "Ireland",
+    "open_answer": "Kánádà"
+  },
+  "2144": {
+    "opt_1": "Chile",
+    "opt_2": "Bọ̀lífíà",
+    "opt_3": "Lithuania",
+    "opt_4": "Turkey",
+    "opt_5": "Ukraine",
+    "open_answer": "Ukraine"
+  },
+  "2145": {
+    "opt_1": "Russia",
+    "opt_2": "Spain",
+    "opt_3": "Algeria",
+    "opt_4": "Morocco",
+    "opt_5": "Brazil",
+    "open_answer": "Brazil"
+  },
+  "2146": {
+    "opt_1": "Switzerland",
+    "opt_2": "Kuwait",
+    "opt_3": "Portugal",
+    "opt_4": "Jamaica",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Portugal"
+  },
+  "2147": {
+    "opt_1": "Portugal",
+    "opt_2": "Lebanon",
+    "opt_3": "Turkey",
+    "opt_4": "Israel",
+    "opt_5": "Denmark",
+    "open_answer": "Denmark"
+  },
+  "2148": {
+    "opt_1": "Serbia",
+    "opt_2": "Bulgaria",
+    "opt_3": "Morocco",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Croatia",
+    "open_answer": "Morocco"
+  },
+  "2149": {
+    "opt_1": "Jamaica",
+    "opt_2": "Singapore",
+    "opt_3": "India",
+    "opt_4": "Brunei",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "2150": {
+    "opt_1": "Nigeria",
+    "opt_2": "Cameroon",
+    "opt_3": "Georgia",
+    "opt_4": "Zimbabwe",
+    "opt_5": "Philippines",
+    "open_answer": "Zimbabwe"
+  },
+  "2151": {
+    "opt_1": "Spain",
+    "opt_2": "German",
+    "opt_3": "Netherlands",
+    "opt_4": "Côte d'Ivoire",
+    "opt_5": "United Kingdom",
+    "open_answer": "Spain"
+  },
+  "2152": {
+    "opt_1": "India",
+    "opt_2": "Mexico",
+    "opt_3": "India",
+    "opt_4": "India",
+    "opt_5": "Philippines",
+    "open_answer": "Philippines"
+  },
+  "2153": {
+    "opt_1": "Algeria",
+    "opt_2": "Belarus",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Romania",
+    "opt_5": "Indonesia",
+    "open_answer": "Algeria"
+  },
+  "2154": {
+    "opt_1": "Portugal",
+    "opt_2": "United Kingdom",
+    "opt_3": "Agentína",
+    "opt_4": "Pakistan",
+    "opt_5": "Nepal",
+    "open_answer": "Nepal"
+  },
+  "2155": {
+    "opt_1": "Netherlands",
+    "opt_2": "Hungary",
+    "opt_3": "Thailand",
+    "opt_4": "Russia",
+    "opt_5": "South Africa",
+    "open_answer": "Netherlands"
+  },
+  "2156": {
+    "opt_1": "Tajikistan",
+    "opt_2": "Turkmenistan",
+    "opt_3": "Iran",
+    "opt_4": "Korea",
+    "opt_5": "Somalia",
+    "open_answer": "Iran"
+  },
+  "2157": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "Philippines",
+    "opt_3": "United States",
+    "opt_4": "France",
+    "opt_5": "United Kingdom",
+    "open_answer": "United States"
+  },
+  "2158": {
+    "opt_1": "Korea",
+    "opt_2": "Indonesia",
+    "opt_3": "Hong Kong",
+    "opt_4": "Philippines",
+    "opt_5": "Japan",
+    "open_answer": "Philippines"
+  },
+  "2159": {
+    "opt_1": "Italy",
+    "opt_2": "Romania",
+    "opt_3": "Jamaica",
+    "opt_4": "Agentína",
+    "opt_5": "Croatia",
+    "open_answer": "Croatia"
+  },
+  "2160": {
+    "opt_1": "Brazil",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Philippines",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2161": {
+    "opt_1": "Spain",
+    "opt_2": "Mexico",
+    "opt_3": "Croatia",
+    "opt_4": "Georgia",
+    "opt_5": "Finland",
+    "open_answer": "Georgia"
+  },
+  "2162": {
+    "opt_1": "Honduras",
+    "opt_2": "Mexico",
+    "opt_3": "Bọ̀lífíà",
+    "opt_4": "Hungary",
+    "opt_5": "France",
+    "open_answer": "Mexico"
+  },
+  "2163": {
+    "opt_1": "England",
+    "opt_2": "Erékùsù Faroe",
+    "opt_3": "Morocco",
+    "opt_4": "Tunisia",
+    "opt_5": "Mauritania",
+    "open_answer": "Morocco"
+  },
+  "2164": {
+    "opt_1": "India",
+    "opt_2": "Nepal",
+    "opt_3": "Suriname",
+    "opt_4": "Bahrain",
+    "opt_5": "Sri Lanka",
+    "open_answer": "India"
+  },
+  "2165": {
+    "opt_1": "Mauritania",
+    "opt_2": "Greece",
+    "opt_3": "Croatia",
+    "opt_4": "Slovakia",
+    "opt_5": "German",
+    "open_answer": "German"
+  },
+  "2166": {
+    "opt_1": "Ireland",
+    "opt_2": "Mexico",
+    "opt_3": "United States",
+    "opt_4": "France",
+    "opt_5": "Taiwan",
+    "open_answer": "France"
+  },
+  "2167": {
+    "opt_1": "Syria",
+    "opt_2": "Azerbaijan",
+    "opt_3": "Iran",
+    "opt_4": "Nigeria",
+    "opt_5": "Afghanistan",
+    "open_answer": "Afghanistan"
+  },
+  "2168": {
+    "opt_1": "Japan",
+    "opt_2": "United States",
+    "opt_3": "Dominica",
+    "opt_4": "Russia",
+    "opt_5": "Antigua ati Barbuda",
+    "open_answer": "Russia"
+  },
+  "2169": {
+    "opt_1": "Hungary",
+    "opt_2": "United States",
+    "opt_3": "Yemen",
+    "opt_4": "United Kingdom",
+    "opt_5": "Italy",
+    "open_answer": "United States"
+  },
+  "2170": {
+    "opt_1": "England",
+    "opt_2": "United Kingdom",
+    "opt_3": "Kánádà",
+    "opt_4": "Scotland",
+    "opt_5": "Ástrálíà",
+    "open_answer": "United Kingdom"
+  },
+  "2171": {
+    "opt_1": "Uganda",
+    "opt_2": "Eritrea",
+    "opt_3": "Mexico",
+    "opt_4": "Venezuela",
+    "opt_5": "Chile",
+    "open_answer": "Mexico"
+  },
+  "2172": {
+    "opt_1": "Ethiopia",
+    "opt_2": "Singapore",
+    "opt_3": "Nigeria",
+    "opt_4": "Philippines",
+    "opt_5": "Indonesia",
+    "open_answer": "Philippines"
+  },
+  "2173": {
+    "opt_1": "Saudi Arabia",
+    "opt_2": "Antigua ati Barbuda",
+    "opt_3": "Turkey",
+    "opt_4": "Bẹ́ljíọ̀mù",
+    "opt_5": "France",
+    "open_answer": "Antigua ati Barbuda"
+  },
+  "2174": {
+    "opt_1": "United States",
+    "opt_2": "Iran",
+    "opt_3": "Switzerland",
+    "opt_4": "Slovenia",
+    "opt_5": "England",
+    "open_answer": "Slovenia"
+  },
+  "2175": {
+    "opt_1": "Philippines",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Malaysia",
+    "opt_4": "United States",
+    "opt_5": "Indonesia",
+    "open_answer": "Ṣáínà"
+  },
+  "2176": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Philippines",
+    "opt_3": "Italy",
+    "opt_4": "Vietnam",
+    "opt_5": "Malaysia",
+    "open_answer": "Ṣáínà"
+  },
+  "2177": {
+    "opt_1": "Greece",
+    "opt_2": "Pakistan",
+    "opt_3": "Sri Lanka",
+    "opt_4": "Latvia",
+    "opt_5": "Sri Lanka",
+    "open_answer": "Latvia"
+  },
+  "2178": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Singapore",
+    "opt_3": "South Korea",
+    "opt_4": "Philippines",
+    "opt_5": "Japan",
+    "open_answer": "Ṣáínà"
+  },
+  "2179": {
+    "opt_1": "Brunei",
+    "opt_2": "Indonesia",
+    "opt_3": "Senegal",
+    "opt_4": "Myanmar",
+    "opt_5": "Vietnam",
+    "open_answer": "Myanmar"
+  },
+  "2180": {
+    "opt_1": "Russia",
+    "opt_2": "Portugal",
+    "opt_3": "Belarus",
+    "opt_4": "German",
+    "opt_5": "Portugal",
+    "open_answer": "German"
+  },
+  "2181": {
+    "opt_1": "Israel",
+    "opt_2": "Pakistan",
+    "opt_3": "Turkey",
+    "opt_4": "Dominican Republic",
+    "opt_5": "Afghanistan",
+    "open_answer": "Pakistan"
+  },
+  "2182": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Lebanon",
+    "opt_3": "South Africa",
+    "opt_4": "Japan",
+    "opt_5": "England",
+    "open_answer": "South Africa"
+  },
+  "2183": {
+    "opt_1": "Cuba",
+    "opt_2": "Guatemala",
+    "opt_3": "Ecuador",
+    "opt_4": "Bọ̀lífíà",
+    "opt_5": "Colombia",
+    "open_answer": "Cuba"
+  },
+  "2184": {
+    "opt_1": "Turkey",
+    "opt_2": "Japan",
+    "opt_3": "Nigeria",
+    "opt_4": "Morocco",
+    "opt_5": "Botswana",
+    "open_answer": "Morocco"
+  },
+  "2185": {
+    "opt_1": "Indonesia",
+    "opt_2": "Guatemala",
+    "opt_3": "United States",
+    "opt_4": "Kánádà",
+    "opt_5": "Macau",
+    "open_answer": "United States"
+  },
+  "2186": {
+    "opt_1": "Jamaica",
+    "opt_2": "Bhutan",
+    "opt_3": "Indonesia",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Colombia",
+    "open_answer": "Indonesia"
+  },
+  "2187": {
+    "opt_1": "Brunei",
+    "opt_2": "Philippines",
+    "opt_3": "Korea",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Thailand",
+    "open_answer": "Ṣáínà"
+  },
+  "2188": {
+    "opt_1": "United States",
+    "opt_2": "Kánádà",
+    "opt_3": "Agentína",
+    "opt_4": "German",
+    "opt_5": "Eritrea",
+    "open_answer": "United States"
+  },
+  "2189": {
+    "opt_1": "Nigeria",
+    "opt_2": "Russia",
+    "opt_3": "Cameroon",
+    "opt_4": "England",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2190": {
+    "opt_1": "Iceland",
+    "opt_2": "Kánádà",
+    "opt_3": "Norway",
+    "opt_4": "Denmark",
+    "opt_5": "Czech Republic",
+    "open_answer": "Kánádà"
+  },
+  "2191": {
+    "opt_1": "Barbados",
+    "opt_2": "India",
+    "opt_3": "United States",
+    "opt_4": "Switzerland",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2192": {
+    "opt_1": "German",
+    "opt_2": "Italy",
+    "opt_3": "Albania",
+    "opt_4": "Russia",
+    "opt_5": "United States",
+    "open_answer": "Italy"
+  },
+  "2193": {
+    "opt_1": "Turkey",
+    "opt_2": "Nepal",
+    "opt_3": "Hungary",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Iceland",
+    "open_answer": "Iceland"
+  },
+  "2194": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Poland",
+    "opt_3": "Egypt",
+    "opt_4": "Somalia",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Ṣáínà"
+  },
+  "2195": {
+    "opt_1": "Uganda",
+    "opt_2": "Montenegro",
+    "opt_3": "Spain",
+    "opt_4": "Agentína",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2196": {
+    "opt_1": "Korea",
+    "opt_2": "Indonesia",
+    "opt_3": "Philippines",
+    "opt_4": "Taiwan",
+    "opt_5": "Japan",
+    "open_answer": "Korea"
+  },
+  "2197": {
+    "opt_1": "France",
+    "opt_2": "Niger",
+    "opt_3": "Zimbabwe",
+    "opt_4": "German",
+    "opt_5": "Switzerland",
+    "open_answer": "Switzerland"
+  },
+  "2198": {
+    "opt_1": "Montenegro",
+    "opt_2": "Améníà",
+    "opt_3": "Georgia",
+    "opt_4": "Croatia",
+    "opt_5": "Kuwait",
+    "open_answer": "Georgia"
+  },
+  "2199": {
+    "opt_1": "Portugal",
+    "opt_2": "Spain",
+    "opt_3": "Bulgaria",
+    "opt_4": "Montenegro",
+    "opt_5": "Philippines",
+    "open_answer": "Spain"
+  },
+  "2200": {
+    "opt_1": "Burkina Faso",
+    "opt_2": "Pakistan",
+    "opt_3": "Uzbekistan",
+    "opt_4": "France",
+    "opt_5": "Maldives",
+    "open_answer": "Pakistan"
+  },
+  "2201": {
+    "opt_1": "Spain",
+    "opt_2": "Chile",
+    "opt_3": "Czech Republic",
+    "opt_4": "Paraguay",
+    "opt_5": "Portugal",
+    "open_answer": "Spain"
+  },
+  "2202": {
+    "opt_1": "Iran",
+    "opt_2": "Montenegro",
+    "opt_3": "Slovenia",
+    "opt_4": "Jordan",
+    "opt_5": "France",
+    "open_answer": "Iran"
+  },
+  "2203": {
+    "opt_1": "Nepal",
+    "opt_2": "Finland",
+    "opt_3": "Iran",
+    "opt_4": "Eritrea",
+    "opt_5": "Yemen",
+    "open_answer": "Nepal"
+  },
+  "2204": {
+    "opt_1": "Korea",
+    "opt_2": "Malaysia",
+    "opt_3": "Netherlands",
+    "opt_4": "Laos",
+    "opt_5": "Myanmar",
+    "open_answer": "Malaysia"
+  },
+  "2205": {
+    "opt_1": "Iraq",
+    "opt_2": "Bahrain",
+    "opt_3": "Denmark",
+    "opt_4": "Philippines",
+    "opt_5": "Angola",
+    "open_answer": "Philippines"
+  },
+  "2206": {
+    "opt_1": "Uzbekistan",
+    "opt_2": "German",
+    "opt_3": "Tajikistan",
+    "opt_4": "Puerto Rico",
+    "opt_5": "Malta",
+    "open_answer": "Puerto Rico"
+  },
+  "2207": {
+    "opt_1": "Scotland",
+    "opt_2": "Philippines",
+    "opt_3": "Italy",
+    "opt_4": "Ástríà",
+    "opt_5": "Denmark",
+    "open_answer": "Italy"
+  },
+  "2208": {
+    "opt_1": "Croatia",
+    "opt_2": "Albania",
+    "opt_3": "Iran",
+    "opt_4": "South Africa",
+    "opt_5": "Mexico",
+    "open_answer": "South Africa"
+  },
+  "2209": {
+    "opt_1": "North Macedonia",
+    "opt_2": "United States",
+    "opt_3": "United Kingdom",
+    "opt_4": "Benin",
+    "opt_5": "Korea",
+    "open_answer": "United States"
+  },
+  "2210": {
+    "opt_1": "Serbia",
+    "opt_2": "Macedonia",
+    "opt_3": "Bẹ́ljíọ̀mù",
+    "opt_4": "Spain",
+    "opt_5": "Hungary",
+    "open_answer": "Bẹ́ljíọ̀mù"
+  },
+  "2211": {
+    "opt_1": "Indonesia",
+    "opt_2": "Japan",
+    "opt_3": "Philippines",
+    "opt_4": "Myanmar",
+    "opt_5": "Korea",
+    "open_answer": "Japan"
+  },
+  "2212": {
+    "opt_1": "Syria",
+    "opt_2": "Indonesia",
+    "opt_3": "Italy",
+    "opt_4": "United States",
+    "opt_5": "France",
+    "open_answer": "Italy"
+  },
+  "2213": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Libya",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Vietnam",
+    "opt_5": "Myanmar",
+    "open_answer": "Ṣáínà"
+  },
+  "2214": {
+    "opt_1": "Philippines",
+    "opt_2": "Indonesia",
+    "opt_3": "Japan",
+    "opt_4": "Korea",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Japan"
+  },
+  "2215": {
+    "opt_1": "Russia",
+    "opt_2": "United States",
+    "opt_3": "Pakistan",
+    "opt_4": "Japan",
+    "opt_5": "Korea",
+    "open_answer": "Japan"
+  },
+  "2216": {
+    "opt_1": "Indonesia",
+    "opt_2": "United States",
+    "opt_3": "Kánádà",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Japan",
+    "open_answer": "United States"
+  },
+  "2217": {
+    "opt_1": "Japan",
+    "opt_2": "Singapore",
+    "opt_3": "Nigeria",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Iran",
+    "open_answer": "Japan"
+  },
+  "2218": {
+    "opt_1": "Croatia",
+    "opt_2": "South Africa",
+    "opt_3": "France",
+    "opt_4": "Nigeria",
+    "opt_5": "France",
+    "open_answer": "South Africa"
+  },
+  "2219": {
+    "opt_1": "Myanmar",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Korea",
+    "opt_4": "Taiwan",
+    "opt_5": "Singapore",
+    "open_answer": "Singapore"
+  },
+  "2220": {
+    "opt_1": "Thailand",
+    "opt_2": "Iraq",
+    "opt_3": "Nigeria",
+    "opt_4": "Slovenia",
+    "opt_5": "Egypt",
+    "open_answer": "Egypt"
+  },
+  "2221": {
+    "opt_1": "Dominica",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Ireland",
+    "opt_4": "United States",
+    "opt_5": "Japan",
+    "open_answer": "Ṣáínà"
+  },
+  "2222": {
+    "opt_1": "Singapore",
+    "opt_2": "Cambodia",
+    "opt_3": "Netherlands",
+    "opt_4": "Indonesia",
+    "opt_5": "Philippines",
+    "open_answer": "Indonesia"
+  },
+  "2223": {
+    "opt_1": "Japan",
+    "opt_2": "Singapore",
+    "opt_3": "Korea",
+    "opt_4": "Malaysia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Korea"
+  },
+  "2224": {
+    "opt_1": "United States",
+    "opt_2": "Philippines",
+    "opt_3": "Morocco",
+    "opt_4": "Sweden",
+    "opt_5": "Denmark",
+    "open_answer": "United States"
+  },
+  "2225": {
+    "opt_1": "Taiwan",
+    "opt_2": "Japan",
+    "opt_3": "Singapore",
+    "opt_4": "Thailand",
+    "opt_5": "Philippines",
+    "open_answer": "Japan"
+  },
+  "2226": {
+    "opt_1": "Korea",
+    "opt_2": "Singapore",
+    "opt_3": "India",
+    "opt_4": "Philippines",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2227": {
+    "opt_1": "Nigeria",
+    "opt_2": "Malaysia",
+    "opt_3": "Indonesia",
+    "opt_4": "Somalia",
+    "opt_5": "France",
+    "open_answer": "Somalia"
+  },
+  "2228": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Kánádà",
+    "opt_3": "Brazil",
+    "opt_4": "Scotland",
+    "opt_5": "Spain",
+    "open_answer": "Scotland"
+  },
+  "2229": {
+    "opt_1": "Iran",
+    "opt_2": "Cuba",
+    "opt_3": "Colombia",
+    "opt_4": "Dominican Republic",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2230": {
+    "opt_1": "Turkey",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Lebanon",
+    "opt_4": "United States",
+    "opt_5": "Japan",
+    "open_answer": "United States"
+  },
+  "2231": {
+    "opt_1": "Wales",
+    "opt_2": "North Macedonia",
+    "opt_3": "Slovenia",
+    "opt_4": "Bulgaria",
+    "opt_5": "France",
+    "open_answer": "Wales"
+  },
+  "2232": {
+    "opt_1": "Malaysia",
+    "opt_2": "Indonesia",
+    "opt_3": "Thailand",
+    "opt_4": "Vietnam",
+    "opt_5": "Singapore",
+    "open_answer": "Thailand"
+  },
+  "2233": {
+    "opt_1": "Hong Kong",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Indonesia",
+    "opt_4": "Pakistan",
+    "opt_5": "India",
+    "open_answer": "Indonesia"
+  },
+  "2234": {
+    "opt_1": "Brunei",
+    "opt_2": "Thailand",
+    "opt_3": "Malaysia",
+    "opt_4": "Indonesia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Indonesia"
+  },
+  "2235": {
+    "opt_1": "Senegal",
+    "opt_2": "Philippines",
+    "opt_3": "Japan",
+    "opt_4": "Indonesia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Philippines"
+  },
+  "2236": {
+    "opt_1": "England",
+    "opt_2": "France",
+    "opt_3": "Scotland",
+    "opt_4": "Kánádà",
+    "opt_5": "Hong Kong",
+    "open_answer": "England"
+  },
+  "2237": {
+    "opt_1": "Brazil",
+    "opt_2": "Macau",
+    "opt_3": "United States",
+    "opt_4": "Taiwan",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2238": {
+    "opt_1": "Uganda",
+    "opt_2": "Peru",
+    "opt_3": "India",
+    "opt_4": "Ecuador",
+    "opt_5": "Mexico",
+    "open_answer": "Uganda"
+  },
+  "2239": {
+    "opt_1": "Slovenia",
+    "opt_2": "Russia",
+    "opt_3": "Israel",
+    "opt_4": "Libya",
+    "opt_5": "Turkey",
+    "open_answer": "Israel"
+  },
+  "2240": {
+    "opt_1": "Palestine",
+    "opt_2": "Syria",
+    "opt_3": "Bọ̀lífíà",
+    "opt_4": "Mexico",
+    "opt_5": "Guatemala",
+    "open_answer": "Mexico"
+  },
+  "2241": {
+    "opt_1": "United Kingdom",
+    "opt_2": "United States",
+    "opt_3": "Pakistan",
+    "opt_4": "Hong Kong",
+    "opt_5": "Ṣáínà",
+    "open_answer": "United States"
+  },
+  "2242": {
+    "opt_1": "Brazil",
+    "opt_2": "Russia",
+    "opt_3": "Iran",
+    "opt_4": "Japan",
+    "opt_5": "Albania",
+    "open_answer": "Japan"
+  },
+  "2243": {
+    "opt_1": "Agentína",
+    "opt_2": "Peru",
+    "opt_3": "Guatemala",
+    "opt_4": "United Kingdom",
+    "opt_5": "Nigeria",
+    "open_answer": "Nigeria"
+  },
+  "2244": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "England",
+    "opt_3": "Venezuela",
+    "opt_4": "Hungary",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "2245": {
+    "opt_1": "Azerbaijan",
+    "opt_2": "Russia",
+    "opt_3": "Latvia",
+    "opt_4": "Venezuela",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "2246": {
+    "opt_1": "Switzerland",
+    "opt_2": "Malaysia",
+    "opt_3": "Ástríà",
+    "opt_4": "France",
+    "opt_5": "United States",
+    "open_answer": "France"
+  },
+  "2247": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Croatia",
+    "opt_3": "Hong Kong",
+    "opt_4": "Peru",
+    "opt_5": "Kazakhstan",
+    "open_answer": "Croatia"
+  },
+  "2248": {
+    "opt_1": "Nigeria",
+    "opt_2": "Mauritania",
+    "opt_3": "Trinidad and Tobago",
+    "opt_4": "Venezuela",
+    "opt_5": "Mauritania",
+    "open_answer": "Nigeria"
+  },
+  "2249": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "Kánádà",
+    "opt_3": "Ástríà",
+    "opt_4": "England",
+    "opt_5": "United States",
+    "open_answer": "United States"
+  },
+  "2250": {
+    "opt_1": "Bahamas",
+    "opt_2": "Brunei",
+    "opt_3": "Belarus",
+    "opt_4": "Russia",
+    "opt_5": "Slovakia",
+    "open_answer": "Russia"
+  },
+  "2251": {
+    "opt_1": "Azerbaijan",
+    "opt_2": "New Zealand",
+    "opt_3": "Japan",
+    "opt_4": "Serbia",
+    "opt_5": "Bulgaria",
+    "open_answer": "New Zealand"
+  },
+  "2252": {
+    "opt_1": "Palestine",
+    "opt_2": "Kenya",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Bulgaria",
+    "opt_5": "Myanmar",
+    "open_answer": "Ṣáínà"
+  },
+  "2253": {
+    "opt_1": "German",
+    "opt_2": "Singapore",
+    "opt_3": "Kánádà",
+    "opt_4": "Mexico",
+    "opt_5": "Taiwan",
+    "open_answer": "German"
+  },
+  "2254": {
+    "opt_1": "United States",
+    "opt_2": "Belarus",
+    "opt_3": "Morocco",
+    "opt_4": "Tunisia",
+    "opt_5": "Turkey",
+    "open_answer": "Turkey"
+  },
+  "2255": {
+    "opt_1": "Spain",
+    "opt_2": "Myanmar",
+    "opt_3": "Korea",
+    "opt_4": "Indonesia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Korea"
+  },
+  "2256": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Suriname",
+    "opt_3": "Netherlands",
+    "opt_4": "Suriname",
+    "opt_5": "Timor-Leste",
+    "open_answer": "Timor-Leste"
+  },
+  "2257": {
+    "opt_1": "Cameroon",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Japan",
+    "opt_4": "Russia",
+    "opt_5": "Nigeria",
+    "open_answer": "Japan"
+  },
+  "2258": {
+    "opt_1": "Albania",
+    "opt_2": "Georgia",
+    "opt_3": "Nepal",
+    "opt_4": "Chad",
+    "opt_5": "Qatar",
+    "open_answer": "Georgia"
+  },
+  "2259": {
+    "opt_1": "Mauritania",
+    "opt_2": "Morocco",
+    "opt_3": "Yemen",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Croatia",
+    "open_answer": "Yemen"
+  },
+  "2260": {
+    "opt_1": "Ástríà",
+    "opt_2": "United States",
+    "opt_3": "Jamaica",
+    "opt_4": "Mexico",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "United States"
+  },
+  "2261": {
+    "opt_1": "United Kingdom",
+    "opt_2": "United States",
+    "opt_3": "Nigeria",
+    "opt_4": "Ethiopia",
+    "opt_5": "India",
+    "open_answer": "United States"
+  },
+  "2262": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "United States",
+    "opt_3": "Agentína",
+    "opt_4": "Egypt",
+    "opt_5": "New Zealand",
+    "open_answer": "United States"
+  },
+  "2263": {
+    "opt_1": "Brunei",
+    "opt_2": "Benin",
+    "opt_3": "United States",
+    "opt_4": "Malaysia",
+    "opt_5": "Gbólóhùn",
+    "open_answer": "United States"
+  },
+  "2264": {
+    "opt_1": "German",
+    "opt_2": "Greece",
+    "opt_3": "Vietnam",
+    "opt_4": "United States",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2265": {
+    "opt_1": "France",
+    "opt_2": "Philippines",
+    "opt_3": "United States",
+    "opt_4": "Italy",
+    "opt_5": "Japan",
+    "open_answer": "Philippines"
+  },
+  "2266": {
+    "opt_1": "Libya",
+    "opt_2": "Nigeria",
+    "opt_3": "Brazil",
+    "opt_4": "Nigeria",
+    "opt_5": "Cameroon",
+    "open_answer": "Libya"
+  },
+  "2267": {
+    "opt_1": "Kuwait",
+    "opt_2": "Sudan",
+    "opt_3": "German",
+    "opt_4": "Saudi Arabia",
+    "opt_5": "Iran",
+    "open_answer": "Saudi Arabia"
+  },
+  "2268": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "United States",
+    "opt_3": "England",
+    "opt_4": "Colombia",
+    "opt_5": "Mexico",
+    "open_answer": "United States"
+  },
+  "2269": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "United States",
+    "opt_3": "Portugal",
+    "opt_4": "England",
+    "opt_5": "New Zealand",
+    "open_answer": "United States"
+  },
+  "2270": {
+    "opt_1": "Benin",
+    "opt_2": "Haiti",
+    "opt_3": "Mexico",
+    "opt_4": "Portugal",
+    "opt_5": "United States",
+    "open_answer": "Portugal"
+  },
+  "2271": {
+    "opt_1": "Myanmar",
+    "opt_2": "Thailand",
+    "opt_3": "Japan",
+    "opt_4": "Taiwan",
+    "opt_5": "Laos",
+    "open_answer": "Laos"
+  },
+  "2272": {
+    "opt_1": "Nigeria",
+    "opt_2": "Cape Verde",
+    "opt_3": "Indonesia",
+    "opt_4": "Laos",
+    "opt_5": "Myanmar",
+    "open_answer": "Laos"
+  },
+  "2273": {
+    "opt_1": "Korea",
+    "opt_2": "Nigeria",
+    "opt_3": "Mexico",
+    "opt_4": "Djibouti",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2274": {
+    "opt_1": "South Africa",
+    "opt_2": "Dominican Republic",
+    "opt_3": "Sri Lanka",
+    "opt_4": "Ṣáínà",
+    "opt_5": "United States",
+    "open_answer": "South Africa"
+  },
+  "2275": {
+    "opt_1": "United States",
+    "opt_2": "Jordan",
+    "opt_3": "Cambodia",
+    "opt_4": "Japan",
+    "opt_5": "Mexico",
+    "open_answer": "United States"
+  },
+  "2276": {
+    "opt_1": "South Africa",
+    "opt_2": "Russia",
+    "opt_3": "Albania",
+    "opt_4": "Brunei",
+    "opt_5": "United States",
+    "open_answer": "South Africa"
+  },
+  "2277": {
+    "opt_1": "Cape Verde",
+    "opt_2": "Cape Verde",
+    "opt_3": "Cape Verde",
+    "opt_4": "Portugal",
+    "opt_5": "Jamaica",
+    "open_answer": "Portugal"
+  },
+  "2278": {
+    "opt_1": "Hungary",
+    "opt_2": "Mexico",
+    "opt_3": "Améníà",
+    "opt_4": "United States",
+    "opt_5": "Spain",
+    "open_answer": "Mexico"
+  },
+  "2279": {
+    "opt_1": "Italy",
+    "opt_2": "Thailand",
+    "opt_3": "South Africa",
+    "opt_4": "Cuba",
+    "opt_5": "Slovenia",
+    "open_answer": "Italy"
+  },
+  "2280": {
+    "opt_1": "United States",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Ireland",
+    "opt_4": "Denmark",
+    "opt_5": "Ástríà",
+    "open_answer": "United States"
+  },
+  "2281": {
+    "opt_1": "Brazil",
+    "opt_2": "Eritrea",
+    "opt_3": "United States",
+    "opt_4": "Laos",
+    "opt_5": "Jamaica",
+    "open_answer": "Jamaica"
+  },
+  "2282": {
+    "opt_1": "Brazil",
+    "opt_2": "Portugal",
+    "opt_3": "Ireland",
+    "opt_4": "Egypt",
+    "opt_5": "United States",
+    "open_answer": "United States"
+  },
+  "2283": {
+    "opt_1": "Sweden",
+    "opt_2": "Algeria",
+    "opt_3": "Norway",
+    "opt_4": "Kánádà",
+    "opt_5": "Peru",
+    "open_answer": "Norway"
+  },
+  "2284": {
+    "opt_1": "Iceland",
+    "opt_2": "England",
+    "opt_3": "United States",
+    "opt_4": "Portugal",
+    "opt_5": "Spain",
+    "open_answer": "United States"
+  },
+  "2285": {
+    "opt_1": "Tanzania",
+    "opt_2": "Lebanon",
+    "opt_3": "Algeria",
+    "opt_4": "Iraq",
+    "opt_5": "Améníà",
+    "open_answer": "Algeria"
+  },
+  "2286": {
+    "opt_1": "Ástrálíà",
+    "opt_2": "Brazil",
+    "opt_3": "Norway",
+    "opt_4": "Nicaragua",
+    "opt_5": "Paraguay",
+    "open_answer": "Paraguay"
+  },
+  "2287": {
+    "opt_1": "Serbia",
+    "opt_2": "Sweden",
+    "opt_3": "Greece",
+    "opt_4": "Bulgaria",
+    "opt_5": "German",
+    "open_answer": "German"
+  },
+  "2288": {
+    "opt_1": "Suriname",
+    "opt_2": "Vietnam",
+    "opt_3": "Korea",
+    "opt_4": "Myanmar",
+    "opt_5": "Thailand",
+    "open_answer": "Thailand"
+  },
+  "2289": {
+    "opt_1": "United Kingdom",
+    "opt_2": "Mexico",
+    "opt_3": "Améníà",
+    "opt_4": "German",
+    "opt_5": "Indonesia",
+    "open_answer": "German"
+  },
+  "2290": {
+    "opt_1": "Taiwan",
+    "opt_2": "Indonesia",
+    "opt_3": "United Kingdom",
+    "opt_4": "Malaysia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "United Kingdom"
+  },
+  "2291": {
+    "opt_1": "Israel",
+    "opt_2": "Mexico",
+    "opt_3": "United States",
+    "opt_4": "England",
+    "opt_5": "Dominica",
+    "open_answer": "Mexico"
+  },
+  "2292": {
+    "opt_1": "Portugal",
+    "opt_2": "France",
+    "opt_3": "Peru",
+    "opt_4": "United States",
+    "opt_5": "Mexico",
+    "open_answer": "Portugal"
+  },
+  "2293": {
+    "opt_1": "Japan",
+    "opt_2": "Sri Lanka",
+    "opt_3": "India",
+    "opt_4": "Honduras",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "2294": {
+    "opt_1": "German",
+    "opt_2": "Ástríà",
+    "opt_3": "United States",
+    "opt_4": "Spain",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "2295": {
+    "opt_1": "Indonesia",
+    "opt_2": "Tanzania",
+    "opt_3": "India",
+    "opt_4": "Améníà",
+    "opt_5": "Ghana",
+    "open_answer": "India"
+  },
+  "2296": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Vietnam",
+    "opt_3": "United Kingdom",
+    "opt_4": "Japan",
+    "opt_5": "Philippines",
+    "open_answer": "Ṣáínà"
+  },
+  "2297": {
+    "opt_1": "Gbólóhùn",
+    "opt_2": "England",
+    "opt_3": "France",
+    "opt_4": "United States",
+    "opt_5": "Scotland",
+    "open_answer": "England"
+  },
+  "2298": {
+    "opt_1": "Syria",
+    "opt_2": "Portugal",
+    "opt_3": "Greece",
+    "opt_4": "Taiwan",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Portugal"
+  },
+  "2299": {
+    "opt_1": "Grenada",
+    "opt_2": "Nepal",
+    "opt_3": "Pakistan",
+    "opt_4": "Singapore",
+    "opt_5": "Thailand",
+    "open_answer": "Thailand"
+  },
+  "2300": {
+    "opt_1": "Jamaica",
+    "opt_2": "Denmark",
+    "opt_3": "German",
+    "opt_4": "Ukraine",
+    "opt_5": "Ástríà",
+    "open_answer": "Denmark"
+  },
+  "2301": {
+    "opt_1": "Mexico",
+    "opt_2": "France",
+    "opt_3": "Uganda",
+    "opt_4": "Portugal",
+    "opt_5": "United States",
+    "open_answer": "Mexico"
+  },
+  "2302": {
+    "opt_1": "Mexico",
+    "opt_2": "Laos",
+    "opt_3": "Spain",
+    "opt_4": "Malaysia",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2303": {
+    "opt_1": "Malaysia",
+    "opt_2": "France",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Switzerland",
+    "opt_5": "England",
+    "open_answer": "France"
+  },
+  "2304": {
+    "opt_1": "Norway",
+    "opt_2": "Spain",
+    "opt_3": "Scotland",
+    "opt_4": "Jamaica",
+    "opt_5": "Venezuela",
+    "open_answer": "Venezuela"
+  },
+  "2305": {
+    "opt_1": "Greece",
+    "opt_2": "Italy",
+    "opt_3": "Turkey",
+    "opt_4": "Iran",
+    "opt_5": "Lebanon",
+    "open_answer": "Lebanon"
+  },
+  "2306": {
+    "opt_1": "Belarus",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Philippines",
+    "opt_4": "England",
+    "opt_5": "Bahamas",
+    "open_answer": "Bahamas"
+  },
+  "2307": {
+    "opt_1": "Serbia",
+    "opt_2": "Greece",
+    "opt_3": "Egypt",
+    "opt_4": "Turkey",
+    "opt_5": "Bulgaria",
+    "open_answer": "Bulgaria"
+  },
+  "2308": {
+    "opt_1": "Pakistan",
+    "opt_2": "Afghanistan",
+    "opt_3": "Syria",
+    "opt_4": "Benin",
+    "opt_5": "Saudi Arabia",
+    "open_answer": "Saudi Arabia"
+  },
+  "2309": {
+    "opt_1": "Taiwan",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Cambodia",
+    "opt_4": "Japan",
+    "opt_5": "Ástrálíà",
+    "open_answer": "Japan"
+  },
+  "2310": {
+    "opt_1": "Netherlands",
+    "opt_2": "Italy",
+    "opt_3": "Greece",
+    "opt_4": "Morocco",
+    "opt_5": "Malaysia",
+    "open_answer": "Greece"
+  },
+  "2311": {
+    "opt_1": "Poland",
+    "opt_2": "Ṣáínà",
+    "opt_3": "Italy",
+    "opt_4": "Tajikistan",
+    "opt_5": "Croatia",
+    "open_answer": "Poland"
+  },
+  "2312": {
+    "opt_1": "Ukraine",
+    "opt_2": "Croatia",
+    "opt_3": "Uzbekistan",
+    "opt_4": "Albania",
+    "opt_5": "Slovenia",
+    "open_answer": "Slovenia"
+  },
+  "2313": {
+    "opt_1": "Portugal",
+    "opt_2": "France",
+    "opt_3": "Bẹ́ljíọ̀mù",
+    "opt_4": "Mexico",
+    "opt_5": "Ghana",
+    "open_answer": "Mexico"
+  },
+  "2314": {
+    "opt_1": "Mexico",
+    "opt_2": "Philippines",
+    "opt_3": "Cyprus",
+    "opt_4": "United States",
+    "opt_5": "Netherlands",
+    "open_answer": "United States"
+  },
+  "2315": {
+    "opt_1": "Turkey",
+    "opt_2": "Nigeria",
+    "opt_3": "Philippines",
+    "opt_4": "Ástrálíà",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "2316": {
+    "opt_1": "Georgia",
+    "opt_2": "Tunisia",
+    "opt_3": "Bangladesh",
+    "opt_4": "Spain",
+    "opt_5": "North Macedonia",
+    "open_answer": "Tunisia"
+  },
+  "2317": {
+    "opt_1": "Chile",
+    "opt_2": "Bọ̀lífíà",
+    "opt_3": "Paraguay",
+    "opt_4": "Mexico",
+    "opt_5": "Spain",
+    "open_answer": "Mexico"
+  },
+  "2318": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Korea",
+    "opt_3": "Indonesia",
+    "opt_4": "Taiwan",
+    "opt_5": "Mongolia",
+    "open_answer": "Indonesia"
+  },
+  "2319": {
+    "opt_1": "Ghana",
+    "opt_2": "Gbólóhùn",
+    "opt_3": "Puerto Rico",
+    "opt_4": "Uzbekistan",
+    "opt_5": "Iraq",
+    "open_answer": "Uzbekistan"
+  },
+  "2320": {
+    "opt_1": "Macau",
+    "opt_2": "Vietnam",
+    "opt_3": "Singapore",
+    "opt_4": "United States",
+    "opt_5": "Japan",
+    "open_answer": "Singapore"
+  },
+  "2321": {
+    "opt_1": "Sierra Leone",
+    "opt_2": "Russia",
+    "opt_3": "Cameroon",
+    "opt_4": "Nigeria",
+    "opt_5": "Trinidad and Tobago",
+    "open_answer": "Cameroon"
+  },
+  "2322": {
+    "opt_1": "Japan",
+    "opt_2": "Malaysia",
+    "opt_3": "Hungary",
+    "opt_4": "India",
+    "opt_5": "Algeria",
+    "open_answer": "Malaysia"
+  },
+  "2323": {
+    "opt_1": "German",
+    "opt_2": "Romania",
+    "opt_3": "Finland",
+    "opt_4": "Slovenia",
+    "opt_5": "Nigeria",
+    "open_answer": "Finland"
+  },
+  "2324": {
+    "opt_1": "Burkina Faso",
+    "opt_2": "Spain",
+    "opt_3": "Togo",
+    "opt_4": "Philippines",
+    "opt_5": "Dominican Republic",
+    "open_answer": "Spain"
+  },
+  "2325": {
+    "opt_1": "India",
+    "opt_2": "Chile",
+    "opt_3": "Guatemala",
+    "opt_4": "Philippines",
+    "opt_5": "Indonesia",
+    "open_answer": "India"
+  },
+  "2326": {
+    "opt_1": "Japan",
+    "opt_2": "Taiwan",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Myanmar",
+    "opt_5": "Japan",
+    "open_answer": "Ṣáínà"
+  },
+  "2327": {
+    "opt_1": "Japan",
+    "opt_2": "Nigeria",
+    "opt_3": "Mexico",
+    "opt_4": "United States",
+    "opt_5": "Iran",
+    "open_answer": "United States"
+  },
+  "2328": {
+    "opt_1": "England",
+    "opt_2": "Ástrálíà",
+    "opt_3": "Ireland",
+    "opt_4": "Gbólóhùn",
+    "opt_5": "Israel",
+    "open_answer": "Ástrálíà"
+  },
+  "2329": {
+    "opt_1": "Mexico",
+    "opt_2": "Spain",
+    "opt_3": "Algeria",
+    "opt_4": "Estonia",
+    "opt_5": "Bosnia àti Herzegovina",
+    "open_answer": "Estonia"
+  },
+  "2330": {
+    "opt_1": "France",
+    "opt_2": "United States",
+    "opt_3": "Nepal",
+    "opt_4": "Saudi Arabia",
+    "opt_5": "Russia",
+    "open_answer": "United States"
+  },
+  "2331": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Vietnam",
+    "opt_3": "Thailand",
+    "opt_4": "Japan",
+    "opt_5": "Hong Kong",
+    "open_answer": "Vietnam"
+  },
+  "2332": {
+    "opt_1": "India",
+    "opt_2": "Ghana",
+    "opt_3": "Vietnam",
+    "opt_4": "Korea",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2333": {
+    "opt_1": "Turkey",
+    "opt_2": "Lebanon",
+    "opt_3": "Àpapọ̀ Arab Emirates",
+    "opt_4": "Afghanistan",
+    "opt_5": "Syria",
+    "open_answer": "Syria"
+  },
+  "2334": {
+    "opt_1": "Russia",
+    "opt_2": "Serbia",
+    "opt_3": "Italy",
+    "opt_4": "Ecuador",
+    "opt_5": "Venezuela",
+    "open_answer": "Venezuela"
+  },
+  "2335": {
+    "opt_1": "Cyprus",
+    "opt_2": "Bulgaria",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Albania",
+    "opt_5": "France",
+    "open_answer": "France"
+  },
+  "2336": {
+    "opt_1": "Mexico",
+    "opt_2": "Thailand",
+    "opt_3": "Brunei",
+    "opt_4": "Sri Lanka",
+    "opt_5": "Indonesia",
+    "open_answer": "Thailand"
+  },
+  "2337": {
+    "opt_1": "Myanmar",
+    "opt_2": "India",
+    "opt_3": "Anguilla",
+    "opt_4": "Nigeria",
+    "opt_5": "Japan",
+    "open_answer": "India"
+  },
+  "2338": {
+    "opt_1": "Romania",
+    "opt_2": "Ireland",
+    "opt_3": "Uruguay",
+    "opt_4": "England",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2339": {
+    "opt_1": "Denmark",
+    "opt_2": "Hungary",
+    "opt_3": "Netherlands",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Spain",
+    "open_answer": "Hungary"
+  },
+  "2340": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "Iran",
+    "opt_3": "Jamaica",
+    "opt_4": "Korea",
+    "opt_5": "Nigeria",
+    "open_answer": "Korea"
+  },
+  "2341": {
+    "opt_1": "Ireland",
+    "opt_2": "South Africa",
+    "opt_3": "Italy",
+    "opt_4": "Morocco",
+    "opt_5": "Belarus",
+    "open_answer": "Italy"
+  },
+  "2342": {
+    "opt_1": "United States",
+    "opt_2": "Romania",
+    "opt_3": "Vietnam",
+    "opt_4": "Poland",
+    "opt_5": "Bosnia àti Herzegovina",
+    "open_answer": "Poland"
+  },
+  "2343": {
+    "opt_1": "Korea",
+    "opt_2": "Indonesia",
+    "opt_3": "Malaysia",
+    "opt_4": "Philippines",
+    "opt_5": "El Salvador",
+    "open_answer": "Philippines"
+  },
+  "2344": {
+    "opt_1": "New Zealand",
+    "opt_2": "Estonia",
+    "opt_3": "Sweden",
+    "opt_4": "England",
+    "opt_5": "Hong Kong",
+    "open_answer": "New Zealand"
+  },
+  "2345": {
+    "opt_1": "Cuba",
+    "opt_2": "France",
+    "opt_3": "Paraguay",
+    "opt_4": "Spain",
+    "opt_5": "El Salvador",
+    "open_answer": "Spain"
+  },
+  "2346": {
+    "opt_1": "Palestine",
+    "opt_2": "Afghanistan",
+    "opt_3": "Azerbaijan",
+    "opt_4": "Azerbaijan",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Palestine"
+  },
+  "2347": {
+    "opt_1": "Palestine",
+    "opt_2": "Ireland",
+    "opt_3": "Mexico",
+    "opt_4": "Hungary",
+    "opt_5": "Slovakia",
+    "open_answer": "Hungary"
+  },
+  "2348": {
+    "opt_1": "Turkey",
+    "opt_2": "Romania",
+    "opt_3": "Egypt",
+    "opt_4": "France",
+    "opt_5": "Guinea-Bissau",
+    "open_answer": "Turkey"
+  },
+  "2349": {
+    "opt_1": "India",
+    "opt_2": "Japan",
+    "opt_3": "Ṣáínà",
+    "opt_4": "Puerto Rico",
+    "opt_5": "Nepal",
+    "open_answer": "India"
+  },
+  "2350": {
+    "opt_1": "Ṣáínà",
+    "opt_2": "United Kingdom",
+    "opt_3": "Russia",
+    "opt_4": "Saint Kitts ati Nevis",
+    "opt_5": "Finland",
+    "open_answer": "Russia"
+  },
+  "2351": {
+    "opt_1": "Lebanon",
+    "opt_2": "Bangladesh",
+    "opt_3": "Japan",
+    "opt_4": "Philippines",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Ṣáínà"
+  },
+  "2352": {
+    "opt_1": "Burkina Faso",
+    "opt_2": "Vietnam",
+    "opt_3": "Côte d'Ivoire",
+    "opt_4": "Taiwan",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Vietnam"
+  },
+  "2353": {
+    "opt_1": "Russia",
+    "opt_2": "Lebanon",
+    "opt_3": "Israel",
+    "opt_4": "Turkey",
+    "opt_5": "Tunisia",
+    "open_answer": "Russia"
+  },
+  "2354": {
+    "opt_1": "Ástríà",
+    "opt_2": "Poland",
+    "opt_3": "France",
+    "opt_4": "Indonesia",
+    "opt_5": "Japan",
+    "open_answer": "Ástríà"
+  },
+  "2355": {
+    "opt_1": "Indonesia",
+    "opt_2": "Japan",
+    "opt_3": "Singapore",
+    "opt_4": "Malaysia",
+    "opt_5": "Taiwan",
+    "open_answer": "Japan"
+  },
+  "2356": {
+    "opt_1": "Indonesia",
+    "opt_2": "Ṣáínà",
+    "opt_3": "South Africa",
+    "opt_4": "Taiwan",
+    "opt_5": "Mongolia",
+    "open_answer": "Ṣáínà"
+  },
+  "2357": {
+    "opt_1": "Egypt",
+    "opt_2": "Italy",
+    "opt_3": "Lebanon",
+    "opt_4": "Senegal",
+    "opt_5": "Bulgaria",
+    "open_answer": "Italy"
+  },
+  "2358": {
+    "opt_1": "Nigeria",
+    "opt_2": "Mexico",
+    "opt_3": "Ecuador",
+    "opt_4": "Philippines",
+    "opt_5": "Singapore",
+    "open_answer": "Philippines"
+  },
+  "2359": {
+    "opt_1": "Finland",
+    "opt_2": "German",
+    "opt_3": "France",
+    "opt_4": "Egypt",
+    "opt_5": "Luxembourg",
+    "open_answer": "France"
+  },
+  "2360": {
+    "opt_1": "Brunei",
+    "opt_2": "Philippines",
+    "opt_3": "Myanmar",
+    "opt_4": "Japan",
+    "opt_5": "Indonesia",
+    "open_answer": "Indonesia"
+  },
+  "2361": {
+    "opt_1": "Montenegro",
+    "opt_2": "United States",
+    "opt_3": "Italy",
+    "opt_4": "Ireland",
+    "opt_5": "Mexico",
+    "open_answer": "United States"
+  },
+  "2362": {
+    "opt_1": "Korea",
+    "opt_2": "Japan",
+    "opt_3": "Indonesia",
+    "opt_4": "Ṣáínà",
+    "opt_5": "Taiwan",
+    "open_answer": "Korea"
+  },
+  "2363": {
+    "opt_1": "Bangladesh",
+    "opt_2": "Afghanistan",
+    "opt_3": "Egypt",
+    "opt_4": "Japan",
+    "opt_5": "Romania",
+    "open_answer": "Romania"
+  },
+  "2364": {
+    "opt_1": "Japan",
+    "opt_2": "Iraq",
+    "opt_3": "Turkey",
+    "opt_4": "France",
+    "opt_5": "Malaysia",
+    "open_answer": "Japan"
+  },
+  "2365": {
+    "opt_1": "Serbia",
+    "opt_2": "Ástríà",
+    "opt_3": "Russia",
+    "opt_4": "United States",
+    "opt_5": "Italy",
+    "open_answer": "Italy"
+  },
+  "2366": {
+    "opt_1": "Indonesia",
+    "opt_2": "Peru",
+    "opt_3": "Congo",
+    "opt_4": "Lesotho",
+    "opt_5": "Saint Lucia",
+    "open_answer": "Congo"
+  },
+  "2367": {
+    "opt_1": "Singapore",
+    "opt_2": "Ireland",
+    "opt_3": "Haiti",
+    "opt_4": "Grenada",
+    "opt_5": "Denmark",
+    "open_answer": "Singapore"
+  },
+  "2368": {
+    "opt_1": "Cuba",
+    "opt_2": "Morocco",
+    "opt_3": "Kánádà",
+    "opt_4": "France",
+    "opt_5": "United States",
+    "open_answer": "France"
+  },
+  "2369": {
+    "opt_1": "Iran",
+    "opt_2": "Italy",
+    "opt_3": "Uganda",
+    "opt_4": "Syria",
+    "opt_5": "Palestine",
+    "open_answer": "Iran"
+  },
+  "2370": {
+    "opt_1": "India",
+    "opt_2": "German",
+    "opt_3": "Japan",
+    "opt_4": "Uzbekistan",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Japan"
+  },
+  "2371": {
+    "opt_1": "Brazil",
+    "opt_2": "United States",
+    "opt_3": "United Kingdom",
+    "opt_4": "Agentína",
+    "opt_5": "New Zealand",
+    "open_answer": "United States"
+  },
+  "2372": {
+    "opt_1": "German",
+    "opt_2": "Puerto Rico",
+    "opt_3": "Indonesia",
+    "opt_4": "Ástrálíà",
+    "opt_5": "Singapore",
+    "open_answer": "Indonesia"
+  },
+  "2373": {
+    "opt_1": "Bulgaria",
+    "opt_2": "Iran",
+    "opt_3": "Guatemala",
+    "opt_4": "Algeria",
+    "opt_5": "Paraguay",
+    "open_answer": "Bulgaria"
+  },
+  "2374": {
+    "opt_1": "Korea",
+    "opt_2": "India",
+    "opt_3": "Bhutan",
+    "opt_4": "Nepal",
+    "opt_5": "Myanmar",
+    "open_answer": "Korea"
+  },
+  "2375": {
+    "opt_1": "German",
+    "opt_2": "Greece",
+    "opt_3": "Hong Kong",
+    "opt_4": "France",
+    "opt_5": "El Salvador",
+    "open_answer": "France"
+  },
+  "2376": {
+    "opt_1": "Israel",
+    "opt_2": "Russia",
+    "opt_3": "France",
+    "opt_4": "Switzerland",
+    "opt_5": "Ástríà",
+    "open_answer": "France"
+  },
+  "2377": {
+    "opt_1": "Bahrain",
+    "opt_2": "Netherlands",
+    "opt_3": "Yemen",
+    "opt_4": "Belarus",
+    "opt_5": "Spain",
+    "open_answer": "Netherlands"
+  },
+  "2378": {
+    "opt_1": "Benin",
+    "opt_2": "Croatia",
+    "opt_3": "Spain",
+    "opt_4": "New Zealand",
+    "opt_5": "Japan",
+    "open_answer": "Benin"
+  },
+  "2379": {
+    "opt_1": "Sri Lanka",
+    "opt_2": "Thailand",
+    "opt_3": "United States",
+    "opt_4": "India",
+    "opt_5": "Serbia",
+    "open_answer": "India"
+  },
+  "2380": {
+    "opt_1": "United States",
+    "opt_2": "United Kingdom",
+    "opt_3": "Korea",
+    "opt_4": "England",
+    "opt_5": "Brazil",
+    "open_answer": "United States"
+  },
+  "2381": {
+    "opt_1": "Barbados",
+    "opt_2": "Dominican Republic",
+    "opt_3": "Thailand",
+    "opt_4": "Grenada",
+    "opt_5": "Philippines",
+    "open_answer": "Philippines"
+  },
+  "2382": {
+    "opt_1": "Netherlands",
+    "opt_2": "Taiwan",
+    "opt_3": "Indonesia",
+    "opt_4": "Brunei",
+    "opt_5": "Syria",
+    "open_answer": "Indonesia"
+  },
+  "2383": {
+    "opt_1": "Jordan",
+    "opt_2": "Cyprus",
+    "opt_3": "Bulgaria",
+    "opt_4": "Agentína",
+    "opt_5": "Tunisia",
+    "open_answer": "Cyprus"
+  },
+  "2384": {
+    "opt_1": "Morocco",
+    "opt_2": "Spain",
+    "opt_3": "Poland",
+    "opt_4": "Turkmenistan",
+    "opt_5": "Ukraine",
+    "open_answer": "Ukraine"
+  },
+  "2385": {
+    "opt_1": "Ethiopia",
+    "opt_2": "Bulgaria",
+    "opt_3": "Slovakia",
+    "opt_4": "Kenya",
+    "opt_5": "Orílẹ̀-èdè Olómìnira Àwùjọ Congo",
+    "open_answer": "Kenya"
+  },
+  "2386": {
+    "opt_1": "German",
+    "opt_2": "Norway",
+    "opt_3": "South Africa",
+    "opt_4": "Czech Republic",
+    "opt_5": "Italy",
+    "open_answer": "Czech Republic"
+  },
+  "2387": {
+    "opt_1": "Laos",
+    "opt_2": "Iran",
+    "opt_3": "Nigeria",
+    "opt_4": "Indonesia",
+    "opt_5": "Malaysia",
+    "open_answer": "Iran"
+  },
+  "2388": {
+    "opt_1": "Indonesia",
+    "opt_2": "England",
+    "opt_3": "Ástrálíà",
+    "opt_4": "Singapore",
+    "opt_5": "Japan",
+    "open_answer": "England"
+  },
+  "2389": {
+    "opt_1": "Senegal",
+    "opt_2": "Liberia",
+    "opt_3": "Togo",
+    "opt_4": "United States",
+    "opt_5": "Nicaragua",
+    "open_answer": "United States"
+  },
+  "2390": {
+    "opt_1": "Nepal",
+    "opt_2": "Philippines",
+    "opt_3": "Netherlands",
+    "opt_4": "United States",
+    "opt_5": "Nepal",
+    "open_answer": "Philippines"
+  },
+  "2391": {
+    "opt_1": "Indonesia",
+    "opt_2": "Philippines",
+    "opt_3": "Turkey",
+    "opt_4": "Jordan",
+    "opt_5": "Spain",
+    "open_answer": "Spain"
+  },
+  "2392": {
+    "opt_1": "Uganda",
+    "opt_2": "Macedonia",
+    "opt_3": "Russia",
+    "opt_4": "Tunisia",
+    "opt_5": "Montenegro",
+    "open_answer": "Russia"
+  },
+  "2393": {
+    "opt_1": "Greece",
+    "opt_2": "Bangladesh",
+    "opt_3": "Russia",
+    "opt_4": "Jamaica",
+    "opt_5": "Japan",
+    "open_answer": "Japan"
+  },
+  "2394": {
+    "opt_1": "Japan",
+    "opt_2": "Korea",
+    "opt_3": "Pakistan",
+    "opt_4": "Ariwa Kọria",
+    "opt_5": "Nepal",
+    "open_answer": "Japan"
+  },
+  "2395": {
+    "opt_1": "Nigeria",
+    "opt_2": "Guatemala",
+    "opt_3": "Brazil",
+    "opt_4": "Japan",
+    "opt_5": "Mexico",
+    "open_answer": "Mexico"
+  },
+  "2396": {
+    "opt_1": "United States",
+    "opt_2": "United Kingdom",
+    "opt_3": "Gbólóhùn",
+    "opt_4": "Serbia",
+    "opt_5": "England",
+    "open_answer": "England"
+  },
+  "2397": {
+    "opt_1": "Nigeria",
+    "opt_2": "Ghana",
+    "opt_3": "United States",
+    "opt_4": "Mexico",
+    "opt_5": "Morocco",
+    "open_answer": "Ghana"
+  },
+  "2398": {
+    "opt_1": "Hungary",
+    "opt_2": "Russia",
+    "opt_3": "Nigeria",
+    "opt_4": "Japan",
+    "opt_5": "Wales",
+    "open_answer": "Russia"
+  },
+  "2399": {
+    "opt_1": "Orílẹ̀-èdè Olómìnira Àwùjọ Congo",
+    "opt_2": "Botswana",
+    "opt_3": "Indonesia",
+    "opt_4": "Malaysia",
+    "opt_5": "Cameroon",
+    "open_answer": "Cameroon"
+  }
+}
