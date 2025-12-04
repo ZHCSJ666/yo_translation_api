@@ -1,0 +1,26 @@
+{
+  "1900": {
+    "opt_1": "Thailand",
+    "opt_2": "South Africa",
+    "opt_3": "Kánádà",
+    "opt_4": "Brazil",
+    "opt_5": "Croatia",
+    "open_answer": "South Africa"
+  },
+  "1901": {
+    "opt_1": "India",
+    "opt_2": "Singapore",
+    "opt_3": "Myanmar",
+    "opt_4": "Malaysia",
+    "opt_5": "Ṣáínà",
+    "open_answer": "Myanmar"
+  },
+  "1902": {
+    "opt_1": "Algeria",
+    "opt_2": "Qatar",
+    "opt_3": "Cyprus",
+    "opt_4": "Iran",
+    "opt_5": "Azerbaijan",
+    "open_answer": "Iran"
+  }
+}
