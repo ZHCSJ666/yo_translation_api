@@ -4,7 +4,8 @@
 import json
 import time
 from pathlib import Path
-import openai
+import requests
+from tqdm import tqdm
 
 #########################################################
 # 1. 读取 API KEY 和 BASE_URL  
@@ -14,29 +15,23 @@ with open('/mnt/workspace/xintong/api_key.txt', 'r', encoding="utf-8") as f:
     lines = f.readlines()
 
 API_KEY = lines[0].strip()
-BASE_URL = lines[1].strip()
-
-openai.api_key = API_KEY
-openai.base_url = BASE_URL
+BASE_URL = lines[1].strip()   
 
 
 #########################################################
 # 2. 输入 / 输出路径配置
 #########################################################
 
-# 当前脚本所在目录
 BASE_DIR = Path(__file__).resolve().parent
 
-# 现在只读一个输入 JSON：three_items.json，放在脚本同目录下
 INPUT_JSON = BASE_DIR / "three_items.json"
 
-# 输出目录：
 OUTPUT_ROOT = Path("/mnt/workspace/xintong/jlq/All_result/wc_yoruba")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 
 #########################################################
-# 3. 翻译用的提示词（system prompt）
+# 3. system prompt
 #########################################################
 
 TRANSLATION_SYSTEM_PROMPT = """
@@ -54,65 +49,50 @@ TRANSLATION_SYSTEM_PROMPT = """
 
 
 #########################################################
-# 4. 工具函数：单次调用 API（不带重试）
+# 4. 调用 API（requests 版本）
 #########################################################
 
 def call_translation_api_once(items_dict, model_name):
-    """
-    只调用一次 API，失败由外层处理。
-    items_dict 形如：
-    {
-        "opt_1": "Ghana",
-        "opt_2": "Vietnam",
-        "open_answer": "India"
-    }
-    """
-    user_content = json.dumps(items_dict, ensure_ascii=False)
 
-    response = openai.chat.completions.create(
-        model=model_name,
-        messages=[
+    payload = {
+        "model": model_name,
+        "messages": [
             {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
-        ],
-    )
+            {"role": "user", "content": json.dumps(items_dict, ensure_ascii=False)},
+        ]
+    }
 
-    text = response.choices[0].message.content
-    translated = json.loads(text)  # 如果不是合法 JSON，会在这里抛错
-    return translated
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    # 🔥 使用 requests，不自动拼接路径
+    resp = requests.post(BASE_URL, headers=headers, json=payload, timeout=60)
+    resp.raise_for_status()
+
+    data = resp.json()
+    text = data["choices"][0]["message"]["content"]
+
+    return json.loads(text)  # 转 JSON
 
 
 #########################################################
-# 5. 主处理函数（适配 options_only JSON，带重试）
+# 5. 主处理函数（带进度条）
 #########################################################
 
 def process_translations(input_path, model_name, retries=3, retry_wait=2):
-    """
-    适配 options_only.json 的结构：
-    {
-      "qa_id": {
-        "opt_1": "...",
-        "opt_2": "...",
-        ...
-        "open_answer": "..."
-      }
-    }
-
-    对每个 qa_id 做重试：
-    - 最多 retries 次
-    - 每次失败等待 retry_wait 秒
-    - 多次失败后写回原始 items_dict，避免程序崩溃
-    """
 
     input_path = Path(input_path)
     with input_path.open("r", encoding="utf-8") as f:
         data = json.load(f)
 
-    print(f"[INFO] Loaded {input_path}, total {len(data)} items.")
+    total = len(data)
+    print(f"[INFO] Loaded {input_path}, total {total} items.")
 
     all_translations = {}
 
-    for qa_id, to_translate in data.items():
+    for qa_id, to_translate in tqdm(data.items(), total=total, desc="Translating"):
 
         if not isinstance(to_translate, dict):
             continue
@@ -121,21 +101,20 @@ def process_translations(input_path, model_name, retries=3, retry_wait=2):
 
         for attempt in range(1, retries + 1):
             try:
-                translated = call_translation_api_once(to_translate, model_name=model_name)
-                break  # 成功，跳出重试循环
+                translated = call_translation_api_once(to_translate, model_name)
+                break
             except Exception as e:
                 print(f"[{qa_id}] 第 {attempt} 次调用失败：{e}")
                 if attempt < retries:
                     time.sleep(retry_wait)
                 else:
-                    print(f"[{qa_id}] 已重试 {retries} 次仍失败，写入原始内容以避免崩溃。")
-                    translated = to_translate  # 退而求其次：保存原始内容
+                    print(f"[{qa_id}] 已重试 {retries} 次仍失败 → 写回原始内容")
+                    translated = to_translate
 
         all_translations[str(qa_id)] = translated
 
-    # 保存翻译后的结果
+    # 保存结果
     output_path = OUTPUT_ROOT / f"{model_name}_yo_raw_translations_{input_path.name}"
-
     with output_path.open("w", encoding="utf-8") as f:
         json.dump(all_translations, f, ensure_ascii=False, indent=2)
 
@@ -154,5 +133,4 @@ if __name__ == "__main__":
     print("Input JSON:", INPUT_JSON)
     print("输出目录:", OUTPUT_ROOT)
 
-    # 现在只处理 three_items.json
     process_translations(INPUT_JSON, model_name)
