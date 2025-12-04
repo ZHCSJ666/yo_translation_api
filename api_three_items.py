@@ -4,8 +4,8 @@
 import json
 import time
 from pathlib import Path
-import requests
 from tqdm import tqdm
+import openai   # ✅ 使用 SDK，而不是 requests
 
 #########################################################
 # 1. 读取 API KEY 和 BASE_URL  
@@ -15,7 +15,11 @@ with open('/mnt/workspace/xintong/api_key.txt', 'r', encoding="utf-8") as f:
     lines = f.readlines()
 
 API_KEY = lines[0].strip()
-BASE_URL = lines[1].strip()   
+BASE_URL = lines[1].strip()    # ⚠️ 建议这里是类似 https://xiaoai.plus/v1 这样的 base，不要再带 /chat/completions
+
+# 设置给 SDK
+openai.api_key = API_KEY
+openai.base_url = BASE_URL
 
 
 #########################################################
@@ -49,36 +53,37 @@ TRANSLATION_SYSTEM_PROMPT = """
 
 
 #########################################################
-# 4. 调用 API（requests 版本）
+# 4. 调用 API（SDK 版本：openai.chat.completions.create）
 #########################################################
 
 def call_translation_api_once(items_dict, model_name):
+    """
+    只调用一次 API，失败由外层重试逻辑处理。
+    items_dict 形如：
+    {
+        "opt_1": "Ghana",
+        "opt_2": "Vietnam",
+        "open_answer": "India"
+    }
+    """
+    user_content = json.dumps(items_dict, ensure_ascii=False)
 
-    payload = {
-        "model": model_name,
-        "messages": [
+    # ✅ 使用 SDK，而不是 requests.post
+    response = openai.chat.completions.create(
+        model=model_name,
+        messages=[
             {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
-            {"role": "user", "content": json.dumps(items_dict, ensure_ascii=False)},
-        ]
-    }
+            {"role": "user", "content": user_content},
+        ],
+    )
 
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json",
-    }
-
-    # 🔥 使用 requests，不自动拼接路径
-    resp = requests.post(BASE_URL, headers=headers, json=payload, timeout=60)
-    resp.raise_for_status()
-
-    data = resp.json()
-    text = data["choices"][0]["message"]["content"]
-
-    return json.loads(text)  # 转 JSON
+    text = response.choices[0].message.content
+    translated = json.loads(text)  # 如果不是合法 JSON，会在这里抛错
+    return translated
 
 
 #########################################################
-# 5. 主处理函数（带进度条）
+# 5. 主处理函数（带进度条 & 重试）
 #########################################################
 
 def process_translations(input_path, model_name, retries=3, retry_wait=2):

@@ -4,8 +4,8 @@
 import json
 import time
 from pathlib import Path
-import requests
 from tqdm import tqdm
+import openai   # ✅ 使用 SDK，而不是 requests
 
 #########################################################
 # 1. 读取 API KEY 和 BASE_URL  
@@ -15,8 +15,11 @@ with open('/mnt/workspace/xintong/api_key.txt', 'r', encoding="utf-8") as f:
     lines = f.readlines()
 
 API_KEY = lines[0].strip()
-BASE_URL = lines[1].strip()   
+BASE_URL = lines[1].strip()    # ⚠️ 第二行建议写成类似 https://xiaoai.plus/v1
 
+# ✅ 配置 openai SDK
+openai.api_key = API_KEY
+openai.base_url = BASE_URL     # SDK 会在后面自动拼 /chat/completions
 
 #########################################################
 # 2. 输入 / 输出路径配置
@@ -29,7 +32,6 @@ EVAL_JSON  = BASE_DIR / "yo_large_eval_options_only.json"
 
 OUTPUT_ROOT = Path("/mnt/workspace/xintong/jlq/All_result/wc_yoruba")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
-
 
 #########################################################
 # 3. system prompt
@@ -48,37 +50,34 @@ TRANSLATION_SYSTEM_PROMPT = """
 4. 严格只输出 JSON，不要输出其它文字。
 """
 
-
 #########################################################
-# 4. 单次调用 API（使用 requests，不再使用 SDK）
+# 4. 单次调用 API（SDK 版本）
 #########################################################
 
 def call_translation_api_once(items_dict, model_name):
+    """
+    只调用一次 SDK，失败由外层重试逻辑处理。
+    items_dict 形如：
+    {
+        "opt_1": "Ghana",
+        "opt_2": "Vietnam",
+        "open_answer": "India"
+    }
+    """
+    user_content = json.dumps(items_dict, ensure_ascii=False)
 
-    payload = {
-        "model": model_name,
-        "messages": [
+    # 🔹 使用 openai SDK 调用 chat.completions
+    response = openai.chat.completions.create(
+        model=model_name,
+        messages=[
             {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
-            {"role": "user", "content": json.dumps(items_dict, ensure_ascii=False)},
-        ]
-    }
+            {"role": "user", "content": user_content},
+        ],
+    )
 
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json",
-    }
-
-    # 🔥 使用 requests.post 到 BASE_URL，不再自动加路径
-    response = requests.post(BASE_URL, headers=headers, json=payload, timeout=60)
-
-    # 如果 API 返回错误，会在这里直接报错
-    response.raise_for_status()
-
-    data = response.json()
-    text = data["choices"][0]["message"]["content"]
-
-    return json.loads(text)
-
+    text = response.choices[0].message.content
+    translated = json.loads(text)   # 保持你原来的约定：模型输出必须是 JSON
+    return translated
 
 #########################################################
 # 5. 主处理函数（带 tqdm）
@@ -105,14 +104,14 @@ def process_translations(input_path, model_name, retries=3, retry_wait=2):
         for attempt in range(1, retries + 1):
             try:
                 translated = call_translation_api_once(to_translate, model_name)
-                break
+                break   # 成功就跳出重试循环
             except Exception as e:
                 print(f"[{qa_id}] 第 {attempt} 次调用失败：{e}")
                 if attempt < retries:
                     time.sleep(retry_wait)
                 else:
                     print(f"[{qa_id}] 已重试 {retries} 次仍失败，写入原始内容。")
-                    translated = to_translate
+                    translated = to_translate   # 兜底：用原始内容
 
         all_translations[str(qa_id)] = translated
 
@@ -122,7 +121,6 @@ def process_translations(input_path, model_name, retries=3, retry_wait=2):
         json.dump(all_translations, f, ensure_ascii=False, indent=2)
 
     print(f"[INFO] Saved translation results → {output_path}")
-
 
 #########################################################
 # 6. 入口
